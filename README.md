@@ -52,16 +52,6 @@ $ cat ./chapters.md
 | | [Acknowledgements](chapters/ch10-acknowledgements.md) | |
 | | [Sources & Further Reading](chapters/ch11-sources.md) | |
 
-## The Five Pillars
-
-The guide is built on five non-negotiable areas that hold your life together. Let any one collapse and everything else follows. Get them right and goals start taking care of themselves.
-
-**Sleep** · **Motion** · **Intake** · **Connection** · **Creation**
-
-<p align="center">
-  <img src="assets/pillar-check.svg" width="100%">
-</p>
-
 ## The me.md
 
 One document. Who you are — your values, narratives, constraints, aspirations, how you think. Hand it to any AI. The conversation changes.
@@ -82,6 +72,10 @@ Work in progress — will improve in future updates.
 - **Effortless Goals** — Goals that emerge naturally when the pillars are solid
 - **Reality Multiplier** — The compounding effect of getting honest about where you actually are
 - **me.md** — A comprehensive self-profile that gives AI real context about who you are
+
+<p align="center">
+  <img src="assets/pillar-check.svg" width="100%">
+</p>
 
 ## Contributing
 
