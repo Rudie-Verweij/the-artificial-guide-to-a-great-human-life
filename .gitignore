@@ -14,10 +14,5 @@ ehthumbs.db
 *.pdf
 *.epub
 
-# Jekyll build artifacts
-docs/_site/
-docs/.jekyll-cache/
-docs/.sass-cache/
-
-# Remotion source (rendered MP4s are in docs/assets/video/)
+# Remotion source (local build tooling)
 remotion/
