@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%">
+  <img src="assets/hero.svg" width="100%">
 </p>
 
 <p align="center">
@@ -7,14 +7,6 @@
   <img src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-F0F0F0?style=flat-square&labelColor=111111&color=555555" alt="License">
   <img src="https://img.shields.io/badge/chapters-9-F0F0F0?style=flat-square&labelColor=111111&color=555555" alt="Chapters">
 </p>
-
----
-
-<p align="center">
-  <img src="assets/terminal-boot.svg" width="100%">
-</p>
-
-A practical guide to self-direction in the age of AI. Not self-help — closer to an engineering manual for your life.
 
 ---
 
@@ -61,6 +53,10 @@ $ cat ./chapters.md
 | | [Sources & Further Reading](chapters/ch11-sources.md) | |
 
 ## The Five Pillars
+
+The guide is built on five non-negotiable areas that hold your life together. Let any one collapse and everything else follows. Get them right and goals start taking care of themselves.
+
+**Sleep** · **Motion** · **Intake** · **Connection** · **Creation**
 
 <p align="center">
   <img src="assets/pillar-check.svg" width="100%">
