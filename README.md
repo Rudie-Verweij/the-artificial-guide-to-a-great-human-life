@@ -10,7 +10,9 @@
 
 ---
 
-> *Your life is a pocket of order. Created at birth, collapsed at death. Complexity goes in, disorder comes out; the magic happens in the middle.*
+<p align="center">
+  <img src="assets/terminal-boot.gif" width="700">
+</p>
 
 A practical guide to self-direction in the age of AI. Not self-help — closer to an engineering manual for your life.
 
@@ -57,6 +59,12 @@ $ cat ./chapters.md
 | 09 | [The Story Continues](chapters/ch09-the-story-continues.md) | Closing thoughts |
 | | [Acknowledgements](chapters/ch10-acknowledgements.md) | |
 | | [Sources & Further Reading](chapters/ch11-sources.md) | |
+
+## The Five Pillars
+
+<p align="center">
+  <img src="assets/pillar-check.gif" width="700">
+</p>
 
 ## The me.md
 
