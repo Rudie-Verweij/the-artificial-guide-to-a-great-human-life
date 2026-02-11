@@ -23,16 +23,12 @@
   <!-- Title -->
   <text x="32" y="72" class="mono" font-size="16" font-weight="600" fill="#F0F0F0">THE ARTIFICIAL GUIDE TO A GREAT HUMAN LIFE</text>
 
-  <!-- Version -->
-  <text x="32" y="100" class="mono" font-size="13" fill="#666666">$ echo $VERSION</text>
-  <text x="200" y="100" class="mono" font-size="13" fill="#CCCCCC">v1.0.0-alpha | February 2026</text>
-
-  <!-- Author -->
-  <text x="32" y="122" class="mono" font-size="13" fill="#666666">$ echo $AUTHOR</text>
-  <text x="200" y="122" class="mono" font-size="13" fill="#CCCCCC">Rudie Nolasco Verweij</text>
+  <!-- Version + Author -->
+  <text x="32" y="100" class="mono" font-size="12" fill="#666666">v1.0.0-alpha | February 2026</text>
+  <text x="32" y="118" class="mono" font-size="12" fill="#666666">Rudie Nolasco Verweij</text>
 
   <!-- Separator -->
-  <line x1="32" y1="142" x2="768" y2="142" stroke="#333333" stroke-width="1"/>
+  <line x1="32" y1="138" x2="768" y2="138" stroke="#333333" stroke-width="1"/>
 
   <!-- Command: $ cat ./life.md (appears at 0.5s) -->
   <text x="32" y="172" class="mono" font-size="15" fill="#666666" opacity="0">$ cat ./life.md
