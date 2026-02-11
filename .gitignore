@@ -13,4 +13,11 @@ ehthumbs.db
 # Build artifacts
 *.pdf
 *.epub
-*.html
+
+# Jekyll build artifacts
+docs/_site/
+docs/.jekyll-cache/
+docs/.sass-cache/
+
+# Remotion source (rendered MP4s are in docs/assets/video/)
+remotion/

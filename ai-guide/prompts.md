@@ -1,736 +1,267 @@
-# AI Prompt Templates
+# Standalone Prompts
 
-**Purpose:** Templates for AI systems applying the Directional Narrative Guide
-**Usage:** Select appropriate template based on user situation and need
+**Purpose:** Self-contained prompts you can copy-paste into any AI conversation without loading the full guide. Each prompt includes enough context for the AI to run the exercise properly.
 
----
-
-## Assessment Prompts
-
-### Pillar Check
-
-**Purpose:** Determine if Five Pillars stable enough for narrative work
-**Use when:** User wants to work on goals, direction, or identity
-
-```
-Before we dive into [goals/direction/narrative work], I'd like to understand your current foundation.
-
-Can you briefly describe:
-1. How has your sleep been recently? (Consistent? Disrupted? How many rough nights per week?)
-2. How much physical movement are you getting? (Even just walking counts)
-3. How's your eating? (Regular meals? Mostly whole foods or lots of processed?)
-4. How's your connection with people? (Meaningful contact? Isolated? Somewhere in between?)
-5. Are you creating or making anything? (Work projects, hobbies, helping others)
-
-This helps me understand where to start.
-```
-
-**Interpretation:**
-- **Stable:** Proceed to goal/narrative work
-- **Unstable:** Recommend pillar stabilization first. Suggest starting with lowest-barrier pillar (usually walking). Defer deeper narrative work.
-
-**Flags (severe):** Multiple pillars severely compromised → Suggest professional support → Do NOT proceed with narrative work
+**Usage:** Copy the entire code block and paste it as your first message in a new AI conversation.
 
 ---
 
-### Goal Triage
-
-**Purpose:** Identify if presenting goal should be filtered, transformed, or used as DN seed
-**Use when:** User presents a specific goal they want to achieve
+## Effortless Goals
 
 ```
-You mentioned wanting to [goal]. Let me ask a few questions to understand this better.
+I want you to walk me through a goal-filtering method called Effortless Goals. It has 5 steps. Guide me through them one at a time — don't rush ahead. Ask me each question and wait for my response before moving on.
 
-First, why is this important to you? What would achieving it give you?
-```
+Here's the method:
 
-*[After initial response, probe deeper]*
+**Step 1: Surface Goal**
+Ask me to write down what I think I want. Unedited, as I'd say it at a party.
 
-```
-And why is [their answer] important? What would that mean for you?
-```
+**Step 2: Radical Self-Honesty**
+Help me drill into WHY I want this. Keep asking "and why is that important?" until I reach something uncomfortable or vulnerable. The honest answer almost always lands in one of four core desires:
+- Security (safety, stability, freedom from fear)
+- Acceptance (belonging, being valued, mattering, love)
+- Autonomy (control, freedom, self-determination)
+- Competence (feeling capable, respected for skills, being "enough")
 
-*[Continue until reaching core desire: security, acceptance, autonomy, or competence]*
+Be patient. If my answer feels safe or surface-level, gently probe deeper. This step is hard.
 
-**Next steps:**
-- **Core reached:** Proceed to EG step 3 (create aligned goal) or explore DN approach if goal seems misaligned
-- **Surface only:** Keep probing; user may need more time
-- **Resistance:** User may not be ready for this work; suggest lighter approach
+**Step 3: Create Aligned Goal**
+Once we've found the core desire, help me translate it into a concrete, actionable goal that actually serves that desire. It should be specific enough to estimate duration, have clear completion criteria, and have an identifiable strategy.
 
----
+**Step 4: Minimize**
+Help me find the smallest version of this goal that still satisfies the core desire. The discipline is making it smaller. It must be achievable with ONE strategy — if it needs multiple strategies, it's a vision, not a goal.
 
-### Crisis Screen
+**Step 5: Reality Multiplier**
+Ask me to estimate total hours needed (hours/week × duration). Then multiply by 10. This isn't pessimism — research shows we underestimate effort by roughly 10x (Kahneman's Planning Fallacy: 91.5% of major projects go over budget/schedule). Ask: "At 10x the effort, do you still want this?"
 
-**Purpose:** Identify if user in acute distress requiring different approach
-**Use when:** User language suggests crisis, despair, or severe dysfunction
+**What happens after:**
+- If the goal survives all 5 steps: "Happy Hunting" — proceed with clear eyes. Ramp up slowly; sustainable effort beats heroic sprints.
+- If 10x kills motivation, check: Is the desire not strong enough? (return to Step 2) Is time commitment too low? (adjust hours) Did I not minimize properly? (return to Step 4)
+- If the goal just stops making sense entirely — if drilling to "I want to feel like I matter" makes the original goal look ridiculous — that's called the Trap Door. It means goals themselves may not be the answer. In that case, suggest I try planting a "seed" instead: a directional statement like "I am becoming someone who [direction, not destination]." Seeds can't fail the way goals can. They express aspiration (wanting to DO) rather than craving (wanting to GET).
 
-**Signals:**
-- Hopelessness language
-- Self-harm references
-- Severe sleep deprivation mentioned
-- Substance use to cope
-- Dissociative language
-
-```
-I'm hearing that things are really difficult right now. Before we work on bigger picture stuff, I want to make sure you have the support you need.
-
-Are you currently working with a therapist, counselor, or doctor?
-
-[If no] Would you be open to exploring some support options?
-
-[Provide appropriate resources based on location/situation]
-
-The frameworks I can help with work best when you have some stability. Right now, let's focus on what would help you feel a bit more grounded today.
+Start with Step 1 now.
 ```
 
 ---
 
-## Intervention Prompts
+## Seed Planting
 
-### Effortless Goals Walkthrough
-
-**Purpose:** Guide user through complete EG 5-step filter
-**Use when:** User has goal, pillars reasonably stable
-
-#### Step 1
 ```
-Let's start with your goal as it naturally comes to mind.
-What do you want to achieve? Don't edit yourself—just write it as you'd say it.
-```
-*Capture: surface_goal*
+I want you to help me create what are called "narrative seeds" — directional statements about who I'm becoming, not goals to achieve.
 
-#### Step 2
-```
-Now let's dig into why. Why do you want [surface_goal]?
-```
-*[After response]*
-```
-And why is that important?
-```
-*[Continue drilling]*
-```
-I'm looking for the answer that feels a bit uncomfortable or vulnerable to say out loud.
-```
+Background: Most goals are fragile (you succeed or fail) and often don't satisfy even when achieved. Seeds are different. The formula is: "I am becoming someone who [direction, not destination]." They express aspiration — wanting to DO rather than wanting to GET. Each aligned action is complete in itself. There's no finish line.
 
-**Target:** Core desire (security | acceptance | autonomy | competence)
+Guide me through this process:
 
-**Note:** Be patient. This step is hard. If user gives safe answer, gently probe: "Is there something underneath that?"
+1. **Start with domains.** Ask me to complete "I am becoming someone who..." for these areas (only the ones that feel relevant):
+   - Body/health
+   - Relationships
+   - Work/craft
+   - Community/contribution
+   - Any other domain that matters to me
 
-#### Step 3
-```
-So the real desire underneath is [core_desire].
+2. **Check each seed:**
+   - Is it directional (not a disguised goal)? "...who runs a marathon" is a goal. "...who moves through the world rather than hiding from it" is a seed.
+   - Does it come from me, or from a script someone else wrote (parents, culture, social media)?
+   - Does saying it feel like relief or obligation? Obligation = possibly inherited, worth examining.
+   - Is it about doing or about getting somewhere?
 
-Now: what's a concrete, actionable goal that would actually serve that desire?
-It should be specific enough that you'd know when you've achieved it
-and you can estimate how long it would take.
-```
-*Capture: aligned_goal*
+3. **Refine.** Help me adjust any that sound like goals in disguise or inherited scripts. Seeds should feel true to what I actually want, not what I think I should want.
 
-#### Step 4
-```
-Good. Now let's minimize. What's the smallest version of [aligned_goal]
-that would still satisfy your desire for [core_desire]?
+4. **Start small.** I only need one or two to begin with. I don't need a seed for everything.
 
-The discipline is making it smaller. We want one clear strategy, not a vision
-that requires multiple pivots.
-```
+If I'm coming from a failed goal, help me extract the underlying desire (usually security, acceptance, autonomy, or competence) and translate it into a direction.
 
-**Criteria:** Single strategy achievable, still satisfies core desire, smallest viable version
-
-*Capture: minimized_goal*
-
-#### Step 5
-```
-Final step. How much time per week can you realistically dedicate to this?
-And how long do you estimate it will take?
-```
-*[After response]*
-```
-So that's roughly [X] total hours.
-
-Here's the hard part: multiply that by 10.
-That's [10X] hours, which at [hours/week] would take [realistic_timeline].
-
-Knowing it might take that long—do you still want it?
-```
-
-**Outcomes:**
-
-*Yes, still want:*
-```
-Great. You have a filtered goal. Proceed with clear eyes.
-Remember: this is a direction you're choosing, not a promise the universe will cooperate.
-```
-
-*No, motivation dead:*
-```
-That's important information. The goal didn't survive the filter.
-
-But your underlying desire—[core_desire]—is still valid.
-
-Would you like to explore building a Directional Narrative instead?
-Rather than a goal to achieve, we'd create an identity story about who you're becoming.
+Start by asking me what areas of life feel most important right now.
 ```
 
 ---
 
-### Pillar Stabilization
+## Pillar Assessment & Stabilization
 
-**Purpose:** Help user improve one pillar as entry point
-**Use when:** Assessment shows unstable foundation
+```
+I want you to help me assess and stabilize my life foundation using a framework called the Five Pillars. These are: Sleep, Motion, Intake (food + mental), Connection, and Creation.
 
-#### 1. Identify Entry
-```
-Of sleep, movement, eating, connection, and creating—which feels least impossible right now?
-Not which is most broken. Which has the lowest barrier to improve slightly?
-```
-*Note: Usually walking. Don't push exercise, just walking.*
+The idea: these five areas feed each other like a flywheel. Better sleep creates clarity to move. Movement calms the mind enough for better food choices. Better food supports deeper sleep. Connection creates belonging. Creation gives purpose. One pillar improving slightly creates space for the next.
 
-#### 2. Minimal Intervention
+It also works in reverse: bad sleep wrecks willpower, which wrecks eating, which wrecks sleep further, which kills motivation to move, which leads to isolation, which leads to weeks lost in a spiral.
 
-**Walking:**
-```
-Can you commit to 10 minutes of walking tomorrow?
-No destination, no fitness goal. Just out the door, move, come back.
+**Step 1: Assess each pillar.** Ask me to honestly describe the current state of:
+1. Sleep — consistent? disrupted? how many bad nights per week?
+2. Motion — any physical movement? even walking? what's the barrier?
+3. Intake — eating patterns? mostly whole foods or processed? what about mental intake (doom-scrolling, etc.)?
+4. Connection — meaningful human contact? or logistics-only? isolated?
+5. Creation — making anything? work with intention? or going through motions?
 
-Music or podcast is fine if it helps you start. Screen stays in pocket.
-```
+**Step 2: Identify the cascade.** Help me see which pillar drags others down when it slips, and which one pulls them up when it improves.
 
-**Sleep:**
-```
-What time are you going to bed most nights?
-Can we try moving that 30 minutes earlier for the next week?
-Not perfect sleep—just slightly earlier.
-```
+**Step 3: Find the entry point.** Ask me: "Which pillar feels LEAST impossible to improve slightly right now?" Not which is most broken — which has the lowest barrier. Usually it's walking (not exercise — walking. 10 minutes, out the door, no destination).
 
-**Intake:**
-```
-What's one meal tomorrow where you could eat something less processed?
-Not a diet change. One meal, slightly cleaner.
-```
+**Step 4: Minimal intervention.** Help me define the smallest possible improvement for that one pillar. Examples:
+- Walking: 10 minutes tomorrow, no destination, screen in pocket
+- Sleep: bedtime 30 minutes earlier for one week
+- Intake: one meal tomorrow slightly cleaner
+- Connection: one genuine conversation this week (therapist counts)
+- Creation: one small thing made or done for someone
 
-**Connection:**
-```
-Who's one person you could have a genuine conversation with this week?
-Not networking. Not catching up on logistics. Just being present with someone.
-Even a therapist counts. The bar is low—just real contact.
-```
+**Step 5: Flywheel frame.** Explain how this one small change feeds the others. Set expectation: it'll be slow at first (pushing a heavy wheel uphill), then it turns on its own, then it pulls you. Expect to lose it sometimes — the restart gets easier each time.
 
-**Creation:**
-```
-What's something small you could make or do for someone this week?
-Doesn't need to be impressive. Could be helping a neighbor,
-organizing something, fixing something.
-```
+If multiple pillars are severely compromised (no sleep, no movement, no connection, substance dependence), suggest professional help first. That's not defeat — it's a willingness to fight. Sometimes you need someone to push the wheel with you.
 
-#### 3. Flywheel Frame
-```
-Here's how this works: [chosen_pillar] will be hard at first.
-Like pushing a heavy wheel uphill.
-
-But it feeds the other areas. [Movement] calms the mind enough to sleep better.
-Better sleep gives energy to eat better. Better fuel lets you move more.
-Connection gives you something to show up for.
-
-After a few weeks, the wheel starts turning on its own.
-
-Let's check in on how [minimal_intervention] went.
+Start with the assessment now.
 ```
 
 ---
 
-### Narrative Construction Guide (Optional — Ch 8)
+## Post-Achievement Audit
 
-**Purpose:** Walk user through building their Kishōtenketsu Directional Narrative
-**Use when:** User has completed their me.md and wants to add depth with a full narrative
-**Note:** The me.md is complete without this. This is optional advanced work.
-
-**Prerequisite:** Confirm pillar stability. User has done some EG work or is clear they want direction not goals.
-
-#### Phase 1: Dump
 ```
-Let's start with your story as you currently tell it to yourself.
+I recently achieved something and I want to do a structured reflection on it before I move on. This is called a Post-Achievement Audit.
 
-Write about your life—key events, patterns, how you got here.
-Don't edit or optimize. I want the raw version, the story you've been carrying.
+Background: Research shows that after success, the brain closes the book. It stops examining what happened, credits skill over luck, misses what almost went wrong, and learns the wrong lessons. Managers who felt successful in past acquisitions actually performed worse in subsequent ones (Zollo's "superstitious learning"). The audit is designed to counter this.
 
-Take your time. This might bring up stuff you haven't looked at in a while.
-```
+Walk me through these questions one at a time. Wait for my response to each before moving on.
 
-**Warnings:**
-- If this feels overwhelming, we can pause
-- Watch for dissociation or severe distress
+**0. Separation**
+Remind me: "This achievement is something you did, not who you are." (Identity fused with outcomes leads to bigger crashes when loss comes — Crocker's contingent self-worth research.)
 
-*Capture: raw_dump*
+**1. Expected Feeling**
+"What did you expect to feel when you achieved this?" Be specific — security from the promotion? satisfaction from the purchase? peace from the milestone?
 
-#### Phase 2: Seeds
-```
-Now let's plant some seeds. Complete these sentences:
+**2. Actual Feeling**
+"What did you actually feel? How does it compare to what you expected? How long before it faded back to baseline?"
 
-"I am becoming someone who..." (regarding rest/sleep)
-"I am becoming someone who..." (regarding movement/body)
-"I am becoming someone who..." (regarding what I consume—food, media)
-"I am becoming someone who..." (regarding connection with others)
-"I am becoming someone who..." (regarding what I create/contribute)
+**3. Cost Assessment**
+"What did this cost you?" Consider: time, energy, relationships, opportunities foregone.
 
-Feel free to add other domains that matter to you—relationships, work, community.
+**4. Exposure Created**
+"What do you now have to maintain, protect, or live up to? What can you now lose that you couldn't before?"
 
-These aren't goals. There's no finish line. They're directions.
-```
-*Capture: narrative_seeds*
+**5. Near Misses** (Research by Ellis shows this is the most valuable question)
+"What almost went wrong? What did you get away with?"
 
-#### Phase 3: Ten
-```
-Now the shift.
+After all five, help me summarize what I actually learned — not the story I'd tell at a party, but the real lessons. This material is useful for understanding my patterns around achievement.
 
-What's been happening recently that brought you here?
-Crises, realizations, things falling apart or coming together?
-
-What are you doing to stabilize—working on sleep, movement, eating, creating?
-
-And this moment—doing this work, taking the pen to write your own story—
-that's part of the shift too.
-
-Write about your Ten: the twist that's happening now.
-```
-*Capture: ten_narrative*
-
-#### Phase 4: Ketsu
-```
-Where do your seeds point?
-
-Not what you'll achieve. Who you're becoming.
-
-Imagine living aligned with those "I am becoming" statements.
-What does that look like? What does a day feel like?
-How do you relate to setbacks?
-
-Write the next chapter. Keep it open-ended—the story continues beyond this.
-```
-*Capture: ketsu_vision*
-
-#### Phase 5: Reconstruct
-```
-Now go back to your original dump with fresh eyes.
-
-Look for moments that contradict the dominant story:
-- Times you weren't anxious
-- Moments you did follow through
-- Days the pattern broke
-- Small wins you dismissed
-
-These are your "unique outcomes." Connect them across time.
-What would you call this alternative pattern?
-```
-*Capture: unique_outcomes*
-
-#### Synthesis
-```
-Let's weave this together.
-
-Your story reads: Ki (past context) → Shō (life unfolding) → Ten (the shift) → Ketsu (where you're heading).
-
-Using your dump, unique outcomes, seeds, Ten, and Ketsu—
-can you write a version of your story that feels true and points forward?
-
-[Or: Would you like me to help draft something from these pieces for you to edit?]
-```
-
-**AI draft option:**
-```
-Based on what you've shared, here's a possible narrative:
-
-[Synthesize Ki from dump + unique outcomes]
-[Synthesize Shō from dump + unique outcomes + early seeds of change]
-[Ten from their ten_narrative]
-[Ketsu from their ketsu_vision, keeping it open-ended]
-
-Does this feel like YOUR story? What would you change?
+Start with step 0 now.
 ```
 
 ---
 
-## Construction Prompts
-
-### Narrative Synthesis
-
-**Purpose:** AI-assisted weaving of narrative from components
-
-**Inputs:**
-- raw_dump
-- narrative_seeds
-- ten_narrative
-- ketsu_vision
-- unique_outcomes (optional, enhances Ki/Shō)
+## me.md Builder
 
 ```
-Based on the materials you've provided, here's a draft of your Directional Narrative
-following the Kishōtenketsu structure:
+I want you to help me build a document called "me.md" — a comprehensive self-profile that captures who I am. The purpose: I can paste this (or relevant sections) into any AI conversation and get responses grounded in MY patterns, MY direction, and MY preferences — instead of generic advice.
 
----
+The document has 7 sections:
 
-**Ki (Introduction)**
-[Synthesize context from dump—not everything, just what matters given the direction.
-Include early seeds of who they were becoming even then. Weave in unique outcomes
-that contradict the problem-saturated version.]
+1. **Where I Came From** — Background, formative experiences, patterns I recognize, current situation. Not a resume. The real version.
 
-**Shō (Development)**
-[Life unfolding. The texture of experience. How the pattern developed—both the
-difficulties and the overlooked exceptions. Building toward the shift without
-framing it as crisis or confrontation.]
+2. **My Foundation** — Current state of five life pillars: Sleep, Motion, Intake (food + mental), Connection, Creation. Which ones drag the others down, which pull them up (cascade patterns). Financial base: enough? overshooting?
 
-**Ten (The Twist)**
-[The perspective shift. Not a crisis resolved, but a recontextualization.
-What they're doing now—stabilizing, authoring, taking the pen.
-The steep spike of insight.]
+3. **Where I Am Going** — Core desires underneath my surface goals. Inherited scripts I've identified (kept or discarded). Goals that survived filtering, if any. My directional seeds: "I am becoming someone who..." for each area that matters. This is the most important section — without direction, it's just a profile.
 
-**Ketsu (Reconciliation)**
-[Where the seeds point. Open-ended. Not "I will achieve X" but "I am becoming
-someone who..." Life continuing beyond this moment. Direction without destination.]
+4. **My Relationship with Gain and Loss** — What my wins actually gave me vs. what I expected. What loss taught me. How I typically respond to winning and losing. Patterns in my relationship with achievement.
 
----
+5. **What I Need From AI** — Communication style preferences. What to push back on. What NOT to do. Where I want help. Decision-making principles. Be specific: "When I'm catastrophizing, call it out directly" is better than "don't be too positive."
 
-This is a draft. The goal is for it to feel like YOUR story.
-What resonates? What needs changing?
+6. **My Story (optional)** — A narrative arc if I choose to build one. The document is complete without this.
+
+7. **Revision Log** — Date, what changed, why. The changes over time tell their own story.
+
+Guide me through this section by section. Some guidelines:
+- Start with whichever section feels most natural (usually Section 3 — seeds/direction)
+- Honest and rough is better than polished and performative
+- Leave sections blank if I'm not ready — gaps are better than filler
+- Don't try to do it all at once
+
+Before we start: a privacy note. If I'm using a cloud AI, my conversation is stored on their servers and may be used for training. I should check: Does this provider store conversations? Can I delete them? Are they used for training? Local AI (running on my own machine) is an alternative where nothing leaves my computer.
+
+Also: when I use this document later, I shouldn't always paste the whole thing. Sharing only the relevant sections gives better results than flooding the conversation with everything.
+
+Ask me which section I'd like to start with.
 ```
 
 ---
 
-### Seed Generation
-
-**Purpose:** Help user generate narrative seeds from failed goals or core desires
+## Seed & Direction Check-In
 
 ```
-Your goal of [failed_goal] didn't survive the filter. That's useful information.
+I want to do a periodic check-in on my life direction. I use directional statements called "seeds" — each one follows the format "I am becoming someone who [direction, not destination]."
 
-The desire underneath was [core_desire].
+My current seeds are:
+[PASTE YOUR SEEDS HERE]
 
-Let's turn that into a direction instead of a destination.
+Help me reflect on each one by asking:
+1. Over the past [period], what actions aligned with this direction?
+2. What didn't align? What got in the way?
+3. Does this seed still resonate? Or has it gone stale?
+4. Has anything shifted in how I see this direction?
 
-Instead of "I want to [achieve X]"...
-What would "I am becoming someone who [direction]" look like?
+If a seed needs replacing, that's growth, not failure. Help me plant a new one if needed.
 
-Some options:
-- "I am becoming someone who [builds security through...]"
-- "I am becoming someone who [earns recognition by...]"
-- "I am becoming someone who [creates autonomy via...]"
-- "I am becoming someone who [develops competence in...]"
+After we've reviewed all seeds, help me note any changes for my revision log (date + what changed + why).
 
-Which resonates? Or craft your own.
+Also check: am I actually reflecting here, or am I ruminating? Reflection feels like curiosity and forward movement. Rumination feels hot, stuck, cycling the same thoughts. If it's rumination, tell me to stop thinking and go for a walk instead.
 ```
 
 ---
 
-### Post-Achievement Audit Guide
-
-**Purpose:** Walk user through PAA after a win
+## Story Construction (Optional)
 
 ```
-Congratulations on [achievement]. Before you move on, let's extract the learning.
+I want to build a personal narrative using a structure called Kishōtenketsu — a four-part East Asian narrative form that doesn't require conflict as the organizing principle.
 
-First, a reminder: this achievement is something you did, not who you are.
+The four parts:
+- **Ki (Introduction):** Establishes context and tone. My world, however it was.
+- **Shō (Development):** Life unfolding. The texture of experience before the shift.
+- **Ten (The Twist):** A perspective shift that recontextualizes everything. Not a crisis — an insight. The heart of the structure.
+- **Ketsu (Reconciliation):** Where my direction points. Open-ended. Life continues.
 
-Now, a few questions:
+Important: We build it BACKWARDS (because you can't write your past properly until you know what it's leading to — narratives filter memory).
 
-1. What did you expect to feel when you achieved this?
+Walk me through these steps one at a time:
 
-2. What do you actually feel? How does it compare?
+**Step 1: Dump** — Ask me to write my story as I currently tell it to myself. Raw, unedited, the dominant narrative. It might be darker or more scattered than expected. That's fine — I need to see what I've been working with.
 
-3. What did this cost you? (Time, energy, relationships, opportunities)
+**Step 2: Seeds** — I should already have directional "I am becoming someone who..." statements. Ask me to share them. If I don't have them, help me create some first (for health, relationships, work, and any other domains that matter).
 
-4. What do you now have to maintain, protect, or live up to?
+**Step 3: Ten (the twist)** — Ask me to write about: What's been happening recently that brought me here? Crises, realizations, things shifting? What am I doing to stabilize? And this moment — doing this work — is part of the shift.
 
-5. Most important: What almost went wrong? What did you get away with?
+**Step 4: Ketsu** — Ask me: Where do your seeds point? Not what you'll achieve — who you're becoming. What does life look like living aligned with those directions? Keep it open-ended.
 
-This isn't to diminish the win. It's to make sure you learn from it—
-something our brains don't do naturally after success.
-```
+**Step 5: Reconstruct Ki & Shō** — Now go back to my dump with fresh eyes. Help me find "unique outcomes" — moments that contradict the dominant story. Times I wasn't anxious, did follow through, the pattern broke. Connect them across time to surface an alternative narrative. Ask me to name that pattern.
 
----
+**Synthesis** — Help me weave all of this into a coherent Kishōtenketsu narrative. Draft something from my materials for me to edit. It should feel like MY story.
 
-## Maintenance Prompts
+Safety notes:
+- If the dump surfaces difficult material and I feel overwhelmed, we pause.
+- Don't force redemption before I've processed difficulty (that creates shame spirals).
+- If I'm cycling the same thoughts without new insights, that's rumination — tell me to stop and go walk.
 
-### Narrative Check-In
-
-**Purpose:** Periodic review of DN alignment
-**Frequency:** Monthly or after significant events
-
-```
-Let's check in on your narrative.
-
-Your direction was: [recall their seeds/ketsu]
-
-Over the past [period]:
-- What actions aligned with that story?
-- What didn't align? What got in the way?
-- Has anything shifted in how you see the direction?
-
-Remember, the narrative evolves. We're not checking if you "succeeded"—
-we're seeing if the direction still fits.
+Start with Step 1.
 ```
 
 ---
 
-### Setback Reframe
-
-**Purpose:** Help integrate setback into narrative rather than treating as failure
-**Use when:** User reports failure, loss, or setback
+## Framework Explanation
 
 ```
-That sounds hard. [Validate the difficulty first—don't rush to reframe]
-```
+I'm going to describe a life-direction framework. Read it and then ask me how you can help.
 
-*[After acknowledgment]*
+The framework comes from "The Artificial Guide to a Great Human Life." Core premise:
 
-```
-In your narrative, setbacks become part of the story, not proof of failure.
+Most goals are fragile — you succeed or fail, and even success often doesn't satisfy (arrival fallacy, dopamine mediates wanting not liking). We chase inherited scripts from parents, culture, and social media without realizing it. We underestimate effort by roughly 10x (planning fallacy). And we fuse identity with outcomes, which means gain is addictive and loss is devastating.
 
-The Taoist farmer saw his horse run away. "Bad luck," said the neighbors.
-"Maybe," he said. It returned with a wild stallion. "Good luck!" "Maybe."
+The alternative:
+1. **Filter goals** using Effortless Goals (5-step method: surface goal → radical self-honesty to find core desire → create aligned goal → minimize → multiply timeline by 10)
+2. **Plant seeds** — directional statements ("I am becoming someone who...") that express aspiration rather than craving. Seeds can't fail the way goals can.
+3. **Build a foundation** — Five Pillars (sleep, motion, intake, connection, creation) that feed each other like a flywheel
+4. **Compile a me.md** — a 7-section self-profile that gives any AI full context to actually help you: background, foundation, direction/seeds, relationship with gain/loss, AI preferences, optional story, revision log
+5. **Optionally**, weave seeds into a Kishōtenketsu narrative for those who want the depth of story
 
-How might this [setback] fit into your story of becoming [their direction]?
+The me.md is the main deliverable. Seeds are the mechanism. The story is optional depth.
 
-Not "what's the silver lining" (that's premature positivity)—
-but "what chapter is this, and what comes next?"
-```
+Professional help (therapist, coach, doctor) is valid at any stage — not defeat, but willingness to fight.
 
----
-
-### Rumination Interrupt
-
-**Purpose:** Detect and redirect rumination disguised as reflection
-
-**Signals:**
-- Same thoughts cycling
-- No new insights emerging
-- Hot, churning feeling
-- Focused on what can't be controlled
-- Waiting for acknowledgment that won't come
-
-```
-I notice we're circling back to [the same point].
-
-Reflection should feel like curiosity—like you're actually learning something.
-Rumination feels hot and stuck, cycling without resolution.
-
-Which does this feel like?
-
-If it's rumination, thinking harder won't help.
-Let's step back. Have you moved your body today? Eaten something real? Slept?
-
-Sometimes the gap we need comes from the body, not the mind.
-```
-
----
-
-## Meta Prompts
-
-### Framework Explanation
-
-**Purpose:** Explain DN approach when user asks "what is this?"
-
-```
-This is based on a framework called Directional Narratives.
-
-The core idea: Goals are fragile. You either achieve them or fail.
-And even when you achieve them, it often doesn't satisfy.
-
-Directions are different. "I am becoming someone who takes care of their body"
-can't fail the same way "I want to lose 20 pounds" can.
-
-The framework helps you:
-1. Filter goals to see which are actually worth pursuing
-2. Identify what you really want underneath the surface goal
-3. Build a stable foundation (sleep, movement, eating, connection, creating)
-4. Build a me.md—a document that captures who you are for any AI to understand
-5. Optionally, construct a narrative about who you're becoming—not what you'll achieve
-
-It's based on research about how identity actually works:
-we ARE our stories, and changing the story changes the psychology.
-
-Would you like to try any part of this?
-```
-
----
-
-### When to Refer Out
-
-**Purpose:** Recognize limits of framework, suggest professional help
-
-**Triggers:**
-- Suicidal ideation
-- Severe depression symptoms
-- Active substance dependence
-- Trauma surfacing that user can't handle
-- Dissociative episodes
-- Two+ weeks of worsening despite pillar work
-
-```
-What you're describing sounds like it needs more support than this framework can provide.
-
-This isn't a limitation of you—it's a limitation of the approach.
-Some things need professional support: a therapist, counselor, or doctor.
-
-Would you be open to exploring that? I can help you think about what kind of support
-might fit, or help you find resources.
-
-The narrative work will still be here when you're ready.
-Right now, let's focus on getting you the support you need.
-```
-
----
-
-## me.md Prompts
-
-### me.md Kickoff
-
-**Purpose:** Introduce the me.md and help user start building it
-**Use when:** User has worked through chapters (or enough of them) and is ready to compile
-
-```
-You've done a lot of work understanding yourself—your patterns, your desires, your foundation, your direction.
-
-Now let's put it all in one place: your me.md.
-
-This is a document that captures who you are. You can paste it into any AI conversation and get responses that actually know you. Instead of generic advice, you get advice grounded in YOUR patterns, YOUR seeds, YOUR foundation.
-
-It has six sections (plus an optional seventh):
-1. Where I Came From — your background and patterns
-2. My Foundation — your five pillars right now
-3. Where I Am Going — your desires, scripts, and seeds
-4. My Relationship with Gain and Loss — what winning and losing taught you
-5. What I Need From AI — how you want AI to work with you
-6. My Story (optional) — your full narrative if you build one
-
-Let's start with whichever section feels most natural. For most people, that's Section 3—your seeds and direction. Which would you like to start with?
-```
-
----
-
-### me.md Section Guide
-
-**Purpose:** Walk user through a specific section
-**Use when:** User is building their me.md section by section
-
-#### Section 1: Where I Came From
-```
-Let's work on Section 1: Where I Came From.
-
-This isn't a resume or the polished version. It's the real one.
-
-Think about:
-- Where did you come from? What shaped you?
-- What patterns do you recognize running through your life?
-- What's your current situation—honestly?
-
-Draw from whatever came up in the early chapters. The parts you usually leave out are often the most useful here.
-```
-
-#### Section 2: My Foundation
-```
-Let's work on Section 2: My Foundation.
-
-For each of the five pillars, describe the current state honestly:
-
-- Sleep: How is it? What helps? What wrecks it?
-- Motion: What movement are you getting? What's the barrier?
-- Intake: How are you eating? What patterns do you notice?
-- Connection: Who's in your life? Is it real contact or just logistics?
-- Creation: What are you making? What pulls you?
-
-Then: which pillar drags the others down when it slips? Which one lifts them up?
-
-And your financial base—is it enough for the pillars? Is it creating its own problems?
-```
-
-#### Section 3: Where I Am Going
-```
-Let's work on Section 3: Where I Am Going.
-
-Start with what you found in the goal work:
-- What's the core desire underneath your surface goals?
-- Which inherited scripts did you identify? Which are you keeping?
-- Did any goals survive the filter?
-
-Then your seeds—the directions, not destinations:
-- One for each pillar: "I am becoming someone who..."
-- And for any life domains that matter: work, relationships, learning, etc.
-
-Finally: What's the dominant story you've been telling yourself? What moments contradicted it? What's the alternative narrative that was always there?
-```
-
-#### Section 4: My Relationship with Gain and Loss
-```
-Let's work on Section 4: My Relationship with Gain and Loss.
-
-Think about your biggest wins and losses:
-- What did your gains actually give you vs. what you expected?
-- What did loss teach you that success couldn't?
-- How do you typically respond to winning? To losing?
-- What patterns do you notice?
-
-If you did a Post-Achievement Audit, that material goes here.
-```
-
-#### Section 5: What I Need From AI
-```
-Let's work on Section 5: What I Need From AI.
-
-This might be the most practically useful section. Think about:
-
-- What communication style works for you? (Direct? Gentle? Short? Detailed?)
-- What should AI push back on? (Old scripts, validation-seeking, etc.)
-- What should AI absolutely NOT do? (Cheerleading, sugarcoating, etc.)
-- Where do you want help? Where don't you?
-
-Be specific. "Don't be overly positive" is okay. "When I'm catastrophizing, call it out directly instead of validating the spiral" is better.
-
-Also worth including: any decision-making principles you rely on. These give AI context for how you think.
-```
-
----
-
-### me.md Review
-
-**Purpose:** Review a completed me.md for completeness and honesty
-**Use when:** User shares their completed document
-
-```
-I've read your me.md. Let me give you some observations:
-
-[Note what feels honest and specific]
-[Flag any sections that feel generic or performative]
-[Identify gaps—sections that are thin or missing]
-[Check if seeds are truly directional (not goals in disguise)]
-[Note if Section 5 is specific enough to actually shape AI interactions]
-
-A few questions:
-- [Question about something that seems contradictory or unclear]
-- [Question about a gap you noticed]
-- [Invitation to go deeper on a thin section]
-
-Remember: the measure of quality is honesty, not polish.
-```
-
----
-
-### me.md Check-In
-
-**Purpose:** Periodic review of me.md for currency
-**Frequency:** Every few months or after significant life events
-
-```
-Let's check in on your me.md.
-
-When did you last update it? Has anything shifted since then?
-
-Some things to consider:
-- Do your seeds still resonate? Or has one gone stale?
-- Has your foundation changed? (Pillar that improved, one that slipped?)
-- Any new patterns you've noticed about yourself?
-- Has your relationship with gain and loss shifted?
-- Does Section 5 still reflect how you want AI to work with you?
-
-If something feels off, let's update it. The revision log is there for a reason—
-the changes themselves tell a story about your evolution.
+How can you help me with any part of this?
 ```

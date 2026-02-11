@@ -1,4 +1,4 @@
-# Directional Narrative Guide (AI-Optimized)
+# The Artificial Guide — AI Reference
 
 **Source:** "The Artificial Guide to a Great Human Life" by Rudie Nolasco Verweij (Feb 2026)
 **Purpose:** Dense reference for AI systems helping users build sustainable life direction
@@ -14,7 +14,7 @@
 | ≠ | distinction / not same as |
 | ∴ | therefore |
 
-**Abbreviations:** DN = Directional Narrative, EG = Effortless Goals, FP = Five Pillars, PAA = Post-Achievement Audit, RM = Reality Multiplier, NS = Narrative Seeds, KT = Kishōtenketsu, MD = me.md
+**Abbreviations:** MD = me.md (primary deliverable), EG = Effortless Goals, FP = Five Pillars, NS = Narrative Seeds, PAA = Post-Achievement Audit, RM = Reality Multiplier, KT = Kishōtenketsu (optional story structure)
 
 ---
 
@@ -22,58 +22,84 @@
 
 | File | Contents |
 |------|----------|
-| [concepts.md](concepts.md) | Core concepts, distinctions, definitions, me.md |
-| [frameworks.md](frameworks.md) | Effortless Goals, Five Pillars, Directional Narrative, me.md |
-| [tools.md](tools.md) | Reality Multiplier, Post-Achievement Audit, Narrative Seeds, Story Construction, me.md Builder |
-| [prompts.md](prompts.md) | AI application templates, me.md prompts |
+| [guide.md](guide.md) | Dense reference — all concepts, frameworks, tools in one file. Load into AI context. |
+| [playbook.md](playbook.md) | AI facilitation templates — load alongside guide.md when running exercises |
+| [prompts.md](prompts.md) | Standalone prompts — copy-paste into any AI conversation |
 
 ---
 
 ## Core Thesis
 
 **Problem:**
-Humans pursue inherited goals via compulsive craving (taṇhā), underestimate effort 10×, fuse identity with outcomes. Gain teaches nothing, loss destroys.
+Humans pursue inherited goals via compulsive craving (tanha), underestimate effort 10x, fuse identity with outcomes. Gain teaches nothing, loss destroys. Eliminating all desire creates a different trap: paralysis (the Vacuum Problem).
 
 **Solution:**
-Replace goals with directional narratives (DN). DN = identity story pointing toward "becoming" not "achieving". Built on stable foundation (FP), using narrative seeds as the central mechanism. Culminates in the me.md (MD): a comprehensive self-profile that gives any AI everything it needs to understand you. Optionally, the Kishōtenketsu structure can weave seeds into a full narrative. Each action either aligns or doesn't. No finish line. No failure mode.
+Replace goals with directional seeds ("I am becoming someone who..."). Seeds express chanda (wholesome aspiration) not tanha (compulsive craving). Build a stable foundation (FP). Compile everything into the **me.md** (MD): a comprehensive self-profile that gives any AI full context to understand you. Optionally, weave seeds into a Kishōtenketsu narrative (Ch 8) for those who want the depth of story. Each action either aligns with your seeds or doesn't. No finish line. No failure mode.
+
+**The me.md is the book's culminating deliverable.** Seeds are the mechanism. The story is optional depth.
 
 ---
 
 ## Usage Flow
 
-### 1. Assess
+### 1. Context (Ch 1-2)
+- Understand entropy, modern condition, hyperstimulation
+- Recognize where you are and what shaped you
+
+### 2. Filter Goals (Ch 3)
+- Apply EG method: surface goal → radical self-honesty → core desire → aligned goal → minimize → Reality Multiplier (x10)
+- Goal survives? → proceed with clarity
+- Goal dies? → the trap door opens (next steps)
+
+### 3. Examine Gain and Loss (Ch 4)
+- Understand why gaining fails to teach
+- Apply PAA after achievements
+- Practice holding lightly: pursue fully, attach loosely
+
+### 4. Quit and Plant Seeds (Ch 5)
+- Recognize inherited scripts
+- Navigate the Vacuum Problem (not all desire is craving)
+- Plant narrative seeds: "I am becoming someone who..."
+- Seeds = chanda (wholesome aspiration), not tanha (compulsive craving)
+
+### 5. Build Foundation (Ch 6)
 - Check FP stability (sleep, motion, intake, connection, creation)
-- If unstable → stabilize first, defer narrative work
-- Identify presenting goal/desire
+- If unstable → stabilize first, defer deeper work
+- Understand flywheel dynamics: one pillar shifting creates space for the next
+- Plant pillar-specific seeds
+- Professional help is valid at any stage
 
-### 2. Filter
-- Apply EG method to surface goal
-- Drill to core desire (security | acceptance | autonomy | competence)
-- Apply RM (×10 timeline)
-- Goal survives? → proceed | Goal dies? → use as DN seed
+### 6. Compile me.md (Ch 7)
+- Organize all chapter work into 7 sections
+- Start where friction is lowest (usually Section 3: seeds)
+- Honest over polished; gaps better than filler
+- Understand privacy: cloud vs local AI tradeoffs
+- Token cost: don't always use full document; share relevant sections
 
-### 3. Construct
-- Generate NS from FP + life domains
-- Compile me.md from Ch 1-6 material (6 sections + optional story from Ch 8)
-- Optionally: build Kishōtenketsu story backwards: dump → seeds → Ten → Ketsu → Ki/Shō
-- Validate: reflection ≠ rumination, no premature positivity
+### 7. Optional: Build Story (Ch 8)
+- Only after me.md is done or done enough
+- Kishōtenketsu structure: Ki → Sho → Ten → Ketsu
+- Build backwards: dump → seeds (already planted) → Ten → Ketsu → reconstruct Ki/Sho
+- Story goes into me.md Section 6
 
-### 4. Maintain
+### 8. Maintain
 - Periodic PAA after gains
-- Revisit me.md as life evolves (revision log)
-- Revisit narrative/seeds as life evolves
+- Revisit me.md as life evolves (Section 7: Revision Log)
+- Revisit seeds as life evolves
 - Setbacks become story material, not failure proof
+- Share with therapist/coach for a head start on understanding you
 
 ---
 
 ## Safety Flags
 
-### Defer narrative work if:
+### Defer deeper work if:
 - FP severely compromised (no sleep, no movement, no connection, substance dependence)
 - Acute crisis (dissociation, suicidal ideation, severe depression)
-- **Action:** Professional support + pillar stabilization first
+- **Action:** Professional support + pillar stabilization first. Professional help is not defeat; it's a willingness to fight.
 
 ### Watch for:
 - **Rumination disguised as reflection:** cycling same thoughts, no insight, hot/churning feeling
 - **Premature positivity:** forcing redemption before processing pain → shame spiral
 - **Difficult material surfacing:** dump exercise may uncover trauma
+- **Token flooding:** sharing full me.md when only sections are relevant degrades AI output quality
