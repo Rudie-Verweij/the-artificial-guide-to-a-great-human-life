@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "jekyll-theme-hacker";
+@import "{{ site.theme }}";
 
 // === Cover palette overrides ===
 // bg: #111111 | border: #555555 | dimtext: #666666

@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="assets/terminal-boot.gif" width="700">
+  <img src="assets/terminal-boot.svg" width="100%">
 </p>
 
 A practical guide to self-direction in the age of AI. Not self-help — closer to an engineering manual for your life.
@@ -63,7 +63,7 @@ $ cat ./chapters.md
 ## The Five Pillars
 
 <p align="center">
-  <img src="assets/pillar-check.gif" width="700">
+  <img src="assets/pillar-check.svg" width="100%">
 </p>
 
 ## The me.md
