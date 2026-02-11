@@ -13,6 +13,3 @@ ehthumbs.db
 # Build artifacts
 *.pdf
 *.epub
-
-# Remotion source (local build tooling)
-remotion/
