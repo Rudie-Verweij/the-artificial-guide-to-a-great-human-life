@@ -13,3 +13,6 @@ ehthumbs.db
 # Build artifacts
 *.pdf
 *.epub
+
+# Exception: human-readable PDF edition
+!Book-for-humans/*.pdf
