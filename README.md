@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-v1.0.0--alpha-F0F0F0?style=flat-square&labelColor=111111&color=555555" alt="Version">
+  <img src="https://img.shields.io/badge/version-v1.0.1--alpha-F0F0F0?style=flat-square&labelColor=111111&color=555555" alt="Version">
   <img src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-F0F0F0?style=flat-square&labelColor=111111&color=555555" alt="License">
   <img src="https://img.shields.io/badge/chapters-9-F0F0F0?style=flat-square&labelColor=111111&color=555555" alt="Chapters">
 </p>
@@ -63,6 +63,14 @@ Chapter 7 walks you through building it. The blank template is at [`templates/me
 The [`ai-guide/`](ai-guide/) folder contains the guide's concepts, frameworks, and prompts in a structured format for AI systems. Include it alongside your me.md for richer context.
 
 Work in progress — will improve in future updates.
+
+## Book for Humans
+
+Prefer paper over pixels? The **Workbook Edition** is a print-ready A5 PDF with writing sections after each chapter, so you can work through the exercises with a pen.
+
+[**Download the Workbook Edition (PDF)**](https://github.com/Rudie-Verweij/the-artificial-guide-to-a-great-human-life/releases/latest/download/interior.pdf)
+
+Print recommendation: A5 hardcover, 160gsm uncoated paper (writable with pen), double-sided.
 
 ## Core Concepts
 
