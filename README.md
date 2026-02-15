@@ -66,9 +66,11 @@ Work in progress — will improve in future updates.
 
 ## Book for Humans
 
-Prefer paper over pixels? The **Workbook Edition** is a print-ready A5 PDF with writing sections after each chapter, so you can work through the exercises with a pen.
+Prefer paper over pixels? Two editions available:
 
-[**Download the Workbook Edition (PDF)**](Book-for-humans/The%20Artificial%20Guide%20to%20a%20Great%20Human%20Life.pdf)
+[**Reading Edition (PDF)**](Book-for-humans/The%20Artificial%20Guide%20-%20Reading%20Edition.pdf) — the full guide, formatted for screen or print.
+
+[**Workbook Edition (PDF)**](Book-for-humans/The%20Artificial%20Guide%20-%20Workbook%20Edition.pdf) — includes writing sections after each chapter so you can work through the exercises with a pen.
 
 Print recommendation: A5 hardcover, 160gsm uncoated paper (writable with pen), double-sided.
 
