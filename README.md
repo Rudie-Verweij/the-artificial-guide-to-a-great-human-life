@@ -68,7 +68,7 @@ Work in progress — will improve in future updates.
 
 Prefer paper over pixels? The **Workbook Edition** is a print-ready A5 PDF with writing sections after each chapter, so you can work through the exercises with a pen.
 
-[**Download the Workbook Edition (PDF)**](https://github.com/Rudie-Verweij/the-artificial-guide-to-a-great-human-life/releases/latest/download/interior.pdf)
+[**Download the Workbook Edition (PDF)**](book-for-humans/The%20Artificial%20Guide%20to%20a%20Great%20Human%20Life.pdf)
 
 Print recommendation: A5 hardcover, 160gsm uncoated paper (writable with pen), double-sided.
 
