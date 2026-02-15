@@ -17,18 +17,18 @@ Here's what I didn't tell you: if you do this honestly, most goals don't survive
 
 This is the trap door. Radical self-honesty doesn't just refine goals. It evaporates them.
 
-And then you're left with a strange question. If no goal seems to deliver what you actually want, who sold you these goals in the first place?
+And then you're left with a strange question. If no goal seems to deliver what you actually want, who sold you the importance of goals in the first place?
 
 
 ### Inherited Scripts
 
-Turns out most desires aren't yours. You pursue something because you'd feel ashamed, guilty, or anxious if you didn't. It *feels* internal. You experience it as your own wanting. But the source is external: parents, culture, peers, social media, some ambient sense of what success is supposed to look like.
+Turns out most goals aren't yours. You pursue something because you'd feel ashamed, guilty, or anxious if you didn't. It *feels* internal. You experience it as your own wanting. But the source is external: parents, culture, peers, social media, some ambient sense of what success is supposed to look like.
 
 The narrative installation happens early and runs deep. From the moment you start making sense of the world around you, you absorb what your family considers desirable and what they don't. Schools teach you to discipline yourself, cooperate with others, obey rules, and test your achievements through competition. Media projects images of idealized lifestyles, bodies, and products. By the time you're making "your own" decisions about career and life, you've already internalized thousands of hours of programming about what success looks like, what kind of person is worthy of respect, what you should want.
 
 None of this is conspiracy. It's just how humans work. We're social animals built to absorb the norms of our tribe. The problem isn't that socialization exists. The problem is that we mistake the installed software for our own operating system.
 
-Psychologists have a term for this: introjected motivation. You take in a value but don't accept it as your own. You pursue the goal because you "ought to", because some part of you learned that this is what good people do. Kennon Sheldon's research found that introjected motivation predicts short-term persistence but not long-term wellbeing. Even when you succeed at introjected goals, anxiety indicators remain elevated. You won the game, but you're not happier. Sound familiar?
+Psychologists have a term for this, introjected motivation. You take in a value but don't accept it as your own. You pursue the goal because you "ought to", because some part of you learned that this is what good people do. Kennon Sheldon's research found that introjected motivation predicts short-term persistence but not long-term wellbeing. Even when you succeed at introjected goals, anxiety indicators remain elevated. You won the game, but you're not happier. Sound familiar?
 
 When Sheldon and Lawrence Krieger studied 6,200 lawyers, they found that income, class rank, partnership status, and law review membership had minimal to zero correlation with wellbeing. Public service lawyers reported higher wellbeing than elite firm lawyers despite markedly lower pay. The external markers of success, the ones everyone told you to chase, don't work. Krieger's conclusion was blunt: the American Dream paradigm (money, status, and external markers as foundations of a happy life) simply does not work. Not for lawyers, not for anyone.
 
@@ -47,7 +47,7 @@ Like many before me, I sought refuge in Eastern philosophies. Taoism and Buddhis
 
 But so does everything else.
 
-I'd built a false choice in my head: either keep chasing scoreboards and suffer, or disengage completely, become a stone Buddha hidden in a cave, feeling nothing. For years those felt like the only two options. I didn't want either. I wanted to be engaged with life, to create, to contribute, to feel the energy that comes from having direction. Just not enslaved to someone else's scoreboard.
+I'd built a false choice in my head: either keep chasing scoreboards and suffer, or disengage completely, become a stone Buddha hidden in a cave, feeling nothing. I didn't want either. I wanted to be engaged with life, to create, to contribute, to feel the energy that comes from having direction. Just not enslaved to someone else's scoreboard.
 
 Turns out I had misunderstood the teaching entirely.
 
@@ -82,11 +82,11 @@ Direction. Not a destination, but a trajectory. Not an outcome to achieve, but a
 
 ### Directional Narratives
 
-Goals are finite: you either achieve them or fail. Narratives are directional: they point somewhere without requiring arrival.
+Goals are finite; you either achieve them or fail. Narratives are directional; they point somewhere without requiring arrival.
 
 "I want to lose 10 kg" is a goal. It succeeds or fails. "I am becoming someone who takes care of their body" is a narrative. It can't fail in the same way. Every action either aligns with the story or doesn't. There's no finish line.
 
-This is what I call a Directional Narrative. It's the practical expression of chanda: wanting to *do*, not wanting to *get*.
+This is what I call a Directional Narrative. It's the practical expression of chanda, wanting to *do*, not wanting to *get*.
 
 ### Narrative Seeds
 

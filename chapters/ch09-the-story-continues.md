@@ -2,8 +2,7 @@
 
 If you were expecting a summary, you won't find one here. Eight chapters of arguing against finish lines, and then I hand you a tidy conclusion with bullet points? This would send you off with confidence.
 
-But confidence is exactly what got us into this mess. The certainty that we know what we want, that the path is clear, and that arrival is possible. I've spent this entire guide trying to loosen that grip. I'm not going to tighten it again at the end.
-
+But confidence is exactly what got us into this mess. The certainty that we know what we want, that the path is clear, and that arrival is possible.
 
 ### Where I Am
 
@@ -20,11 +19,11 @@ Some days these feel true. Other days I catch myself reaching for the old games:
 
 ### The Invitation
 
-Now take what's useful. Discard what isn't. Build your pillars. Plant your seeds. Fill your document. Hand it to any AI and the conversation changes: no more generic advice, no more starting from zero. Every future conversation begins from who you actually are. If you want to go further, author your story.
+Now take what's useful. Discard what isn't. Build your pillars. Plant your seeds. Fill your document. Hand it to any AI and the conversation changes; no more generic advice, no more starting from zero. Every future conversation begins from who you actually are. If you want to go further, author your story.
 
-Maybe we compare notes later. Maybe we discover we were both wrong.
+Maybe we compare notes later. Maybe we discover that I was wrong.
 
-What I do know is this: chasing someone else's goals with someone else's timeline on someone else's scoreboard was making me miserable. Stopping that, even without knowing what comes next, was the right move.
+What I do know is that chasing someone else's goals with someone else's timeline on someone else's scoreboard was making me miserable. Stopping that, even without knowing what comes next, was the right move.
 
 The story continues.
 
@@ -34,11 +33,11 @@ The story continues.
 
 "May I never be complete. May I never be content. May I never be perfect." Fight Club (1999)
 
+&nbsp;
+
+&nbsp;
+
 See you out there.
-
-&nbsp;
-
-&nbsp;
 
 Kind regards,
 

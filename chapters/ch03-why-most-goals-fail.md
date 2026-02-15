@@ -1,10 +1,10 @@
 ## Chapter Three: Why Most Goals Fail
 
-For many, there is a massive divide between what they say and what they do; this often stems from two factors: the underestimation of effort required and the misalignment with what we actually desire.
+For many, there is a massive divide between what they say and what they do; this stems from two factors: the underestimation of effort required and the misalignment with what we actually desire.
 
 Most of us have honest intentions, but our day starts, and we become unconscious. Sometimes we black out for months just to find ourselves staring into a lake on a random Sunday afternoon, remembering all our good intentions from the start of the year. In this hyper-stimulating world, it is easy to lose track of time; without mindfulness, a new way of being can not be implemented.
 
-For the more conscious, the problem often lies in a lack of a deeper understanding of oneself. We may strive for money with the hidden goal to feel secure or become a successful manager to feel important. Often we are ashamed of the underlying feeling and cover it with complex stories of wants and needs, hopes and dreams. This is not necessarily a problem if it serves you well, unfortunately, for many of us, it manifests as a toxic slurry that drags us into a dark place. Often, when the goals are reached, a further feeling of despair consumes us, realising that it did not solve our internal problems, and we are left disillusioned with life.
+For the more conscious, the problem lies in a lack of a deeper understanding of oneself. We may strive for money with the hidden goal to feel secure or become a successful manager to feel important. We are often ashamed of the underlying feeling and cover it with complex stories of wants and needs, hopes and dreams. This is not necessarily a problem if it serves you well, unfortunately, for many of us, it manifests as a toxic slurry that drags us into a dark place. When the goals are reached, a further feeling of despair consumes us, realising that it did not solve our internal problems, and we are left disillusioned with life.
 
 When reading, I ask only that you resist the urge to separate yourself from the 8,300,000,000 other humans. We are all liable to fall for these two tricks of the mind.
 
@@ -16,12 +16,12 @@ It is believed that the Babylonians made the first New Year's resolutions about 
 
 ### "Quitter's Day"
 
-Unfortunately, most goals are quickly abandoned, the most famous being the lofty New Year's Eve resolutions. In 2019, Strava analysed over 800 million user-logged activities and found that New Year's resolutions typically last until January 19th (cleverly coined "Quitters Day"). The numbers get worse: John Norcross and colleagues at the University of Scranton found that 77% of New Year's resolutions are maintained for one week, and only 19% are still being pursued two years later. Finally, Richard Wiseman's 2007 study of 3,000 participants found that 88% of those who set resolutions fail to achieve them, despite 52% being confident of success when they started. Outside of New Year's resolutions that often focus on habit changes, we often set specific goals throughout the year. This can be related to financial achievements, such as a savings goal or external validations, such as social media metrics. No matter the type of goal, they all seem to be plagued by an underestimation of effort.
+Unfortunately, most goals are quickly abandoned, the most famous being the lofty New Year's Eve resolutions. In 2019, Strava analysed over 800 million user-logged activities and found that New Year's resolutions typically last until January 19th (cleverly coined "Quitters Day"). The numbers get worse: Richard Wiseman's 2007 study of 3,000 participants found that 88% of those who set resolutions fail to achieve them, despite 52% being confident of success when they started. Outside of New Year's resolutions that often focus on habit changes, we often set specific goals throughout the year. This can be related to financial achievements such as savings goals or external validations such as social media metrics. No matter the type of goal, they all seem to be plagued by an underestimation of effort.
 
 
 ### Planning Fallacy
 
-And it's not a matter of intelligence, some of the smartest people in the world entrusted with billions are falling for the same underestimation of timelines. The term "Planning Fallacy" was introduced by Daniel Kahneman and Amos Tversky in 1979 in their paper "Intuitive Prediction: Biases and Corrective Procedures." They realised that we tend to underestimate the time required to complete a goal, even when we have past experiences of failure. In other words, we not only underestimate the needed time, but also do not learn from those mistakes! Roger Buehler's studies reveal further critical insights, such as the fact that we more accurately predict the required time when planning for others compared to ourselves. The reasoning for this is complex but centres around the following points:
+It's not a matter of intelligence, some of the smartest people in the world entrusted with billions are falling for the same underestimation of timelines. The term "Planning Fallacy" was introduced by Daniel Kahneman and Amos Tversky in 1979 in their paper "Intuitive Prediction: Biases and Corrective Procedures." They realised that we tend to underestimate the time required to complete a goal, even when we have past experiences of failure. In other words, we not only underestimate the needed time, but also do not learn from those mistakes! Roger Buehler's studies reveal further critical insights, such as the fact that we more accurately predict the required time when planning for others compared to ourselves. The reasoning for this is complex but centres around the following points:
 
 Memory Biases: We misremember how long tasks took in the past.
 Planning Simulations: When we think of the future, we often can only simulate a perfect world without setbacks.
@@ -38,11 +38,11 @@ Denver International Airport: 200% cost overrun.
 
 ### Play silly games, win silly prizes
 
-Now, some would argue that being overly optimistic is a good thing, as it can get us started in the right direction, but unfortunately, setting shitty goals has shitty consequences. Research by Kasser and Ryan found that people who strongly valued financial success reported worse psychological health. The pattern holds: a meta-analysis by Dittmar, Bond, Hurst, and Kasser confirmed that materialism is connected with lower life satisfaction, risky health behaviours, and negative self-image.
+Now, some would argue that being overly optimistic is a good thing, as it can get us started, but unfortunately, setting shitty goals has shitty consequences. Research by Kasser and Ryan found that people who strongly valued financial success reported worse psychological health. The pattern holds: a meta-analysis by Dittmar, Bond, Hurst, and Kasser confirmed that materialism is connected with lower life satisfaction, risky health behaviours, and negative self-image.
 
 Even if the timeline is correctly estimated, sticking with the wrong goals is challenging and can be dangerous. "Goal Contents Theory" describes the difference between intrinsic and extrinsic goals. Intrinsic goals include personal growth, meaningful relationships, community involvement, and physical health. Extrinsic goals include financial success, fame, and image/appearance.
 
-Knowing the negatives of extrinsic goals, why are we so often drawn to them? A meta-analysis by Tobin et al. found that being exposed to social media content showing a higher social status negatively affects the users' well-being and contributes to further feelings of depression. Social media users consistently set more extrinsic goals. This comparison also holds up in the real world, where being exposed to what others may have can increase your desire to "keep up with the Joneses", an American saying describing the need to keep up with the neighbours when they buy a new car or go on a luxury holiday. The fundamental problem with extrinsic goals is that they fail to satisfy the psychological needs they are unconsciously meant to address:
+Knowing the negatives of extrinsic goals, why are we so often drawn to them? A meta-analysis by Tobin et al. found that being exposed to social media content showing a higher social status negatively affects the users' well-being and contributes to further feelings of depression. Social media users consistently set more extrinsic goals. This comparison also holds up in the real world, where being exposed to what others have can increase your desire to "keep up with the Joneses", an American saying describing the need to keep up with the neighbours when they buy a new car or go on a luxury holiday. The fundamental problem with extrinsic goals is that they fail to satisfy the psychological needs they are unconsciously meant to address:
 
 Surface Goal: Wealth → Underlying Need: Security.
 Surface Goal: Fame → Underlying Need: Recognition that one matters.
@@ -102,7 +102,7 @@ Important: Please be kind to yourself! These are difficult topics, and you may n
 
 Now that you know your underlying desire, you need to translate it into a concrete and actionable goal.
 
-For example: Your desire is "I want to feel that I am heard and my ideas are respected"
+For example, your desire is "I want to feel that I am heard and my ideas are respected"
 
 Possible goals:
 "Publish 10 well-researched articles in my field"
@@ -141,9 +141,9 @@ Now comes the really shitty part. Multiply your total effort estimate by 10. Yes
 Now ask yourself: If this goal takes 10x more effort than I thought, do I still want it? The results are often devastating, that "6-month side project" (50 hours) now becomes a 2-3 year endeavour (500 hours).
 
 If 10x kills all your motivation, there may be one of these problems:
-Problem #1: The desire isn't strong enough. Solution: Return to Step 2.
-Problem #2: Your time commitment is too low. Solution: Adjust your time allocation if possible.
-Problem #3: You didn't minimize properly. Solution: Return to Step 4.
+1. The desire isn't strong enough. Return to Step 2.
+2. Your time commitment is too low. Adjust your time allocation if possible.
+3. You didn't minimize properly. Return to Step 4.
 
 Before abandoning a goal, see if you can increase your weekly time commitment. For example, you estimate that learning Spanish takes 3 months at 4 hours a week; this results in a 2.5-year estimate after applying the Multiplier. Alternatively, you envision 8 hours a week and 1.5 months of work, which would result in a roughly 1 year commitment.
 
@@ -156,7 +156,7 @@ Overly Ambitious: Building a large business in 2 years turns into 20 years.
 
 The difference between 6 months and 2 years seems modest. But after the multiplier, it becomes the difference between a large chapter and the remainder of your career. Small reductions in goal size create massive reductions in required timeline.
 
-If 10x feels trivially easy, your original estimate was probably a fantasy. Revisit your timeline with more honesty before applying the multiplier. On rare occasions, goals take significantly less effort than even your original estimate. You vastly underestimated your existing capabilities, or the goal was simpler than you thought; luck plays the biggest role in the early completion of goals. If this happens, great. The Reality Multiplier protects you from the far more common scenario: massive underestimation.
+Now, if 10x feels trivially easy, your original estimate was probably a fantasy. Revisit your timeline with more honesty before applying the multiplier. On rare occasions, goals take significantly less effort than even your original estimate. You vastly underestimated your existing capabilities, or the goal was simpler than you thought; luck plays the biggest role in the early completion of goals. If this happens, great. The Reality Multiplier protects you from the far more common scenario: massive underestimation.
 
 If your goal comes out of the 5 steps successfully, then to you I say "Happy Hunting".
 
