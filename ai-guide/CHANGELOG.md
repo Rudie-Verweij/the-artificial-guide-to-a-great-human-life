@@ -1,5 +1,32 @@
 # AI Guide — Changelog
 
+## 2026-11-07: Drop Chapter Eight (story construction)
+
+### What changed
+
+The book dropped Chapter Eight, "From Seeds to Story". Old Chapter Nine, "The Story Continues", is now Chapter Eight. The me.md lost its optional "My Story" section and now has 6 sections, with the Revision Log as Section 6.
+
+The ai-guide files now match:
+
+- **`guide.md`**: removed the Story Construction section (KT structure, backwards building order, unique outcomes, synthesis, story failure modes) and the KT abbreviation. The narrative identity research that moves into Chapter Five (McAdams, Dunlop & Tracy) now sits under Seeds & Direction. me.md table is down to 6 rows. Dropped the dump-exercise safety flag.
+- **`playbook.md`**: removed the Narrative Construction Guide and the Narrative Synthesis prompt. me.md Kickoff and Section Guide list 6 sections; the My Story step is gone and the Revision Log is Section 6. Framework Explanation no longer mentions the story.
+- **`prompts.md`**: removed the Story Construction prompt. me.md Builder and Framework Explanation describe a 6-section me.md with no story step.
+- **`README.md`**: removed the "Optional: Build Story" usage step, the KT abbreviation, the Kishōtenketsu and "story is optional depth" lines, and the dump-exercise safety flag. Revision Log reference is now Section 6.
+
+### guide.md structure
+
+7 sections following the book's chapter order:
+
+1. **Problem Framing** (Ch 1-2)
+2. **Effortless Goals** (Ch 3)
+3. **Gain & Loss** (Ch 4)
+4. **Seeds & Direction** (Ch 5), now including narrative identity research
+5. **Five Pillars** (Ch 6)
+6. **me.md** (Ch 7), 6-section table
+7. **Safety Flags**
+
+Word count of guide.md: **~2,400 words**.
+
 ## 2026-02-11: Consolidate reference files into guide.md
 
 ### What changed
