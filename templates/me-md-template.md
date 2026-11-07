@@ -73,12 +73,13 @@ ME.MD - [Your Name] - [Date]
 
 ═══════════════════════════════════════════════════════════════
 
-6. MY STORY (OPTIONAL - from Chapter 8)
-   If you completed the Kishōtenketsu narrative construction, paste it here.
+6. MY STORY (OPTIONAL - see Chapter 8)
+   If you want to write your own story, put it here, in the Kishōtenketsu
+   structure or in your own words.
 
-   DOMINANT STORY (brief): What story have I been telling myself?
-   UNIQUE OUTCOMES: What moments contradicted that story?
-   ALTERNATIVE NARRATIVE: What's the other story that was always there?
+   - Ki/Shō: Where did I come from, and how did things unfold?
+   - Ten: What shift am I in right now?
+   - Ketsu: Where are my seeds pointing?
 
 ═══════════════════════════════════════════════════════════════
 

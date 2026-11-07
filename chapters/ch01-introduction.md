@@ -40,9 +40,9 @@ By the end of this guide, you will have a document. Not a journal entry, not a v
 
 A word of caution, this document will contain some of the most personal information you've ever put into words. Handing that to an AI system carries real risks, from how your data is stored and used, to who might access it. We'll go deeper on this in the me.md chapter, but know upfront that this is something to take seriously.
 
-Each chapter contributes material to this document. You'll examine your relationship with struggle and ambition. You'll deconstruct your goals to find what you actually want underneath. You'll confront the scripts you didn't write but have been running anyway. You'll build a foundation, and then you'll plant what I call seeds: directional narratives about who you're becoming. Those seeds are what give the document its forward motion.
+Each chapter adds material to this document: your relationship with struggle and ambition, what you actually want underneath your goals, the scripts you've been running without having written them, a stable foundation, and what I call seeds, directional narratives about who you're becoming. Those seeds give the document its forward motion.
 
-I'm telling you this now so you know where we're headed. Not so you can skip ahead. The document only works if the material in it is honest, and honesty takes the kind of work the next six chapters will ask of you.
+I'm telling you this so you know where we're headed, not so you can skip ahead. The document only works if the material in it is honest, and that takes the kind of work the next six chapters will ask of you.
 
 
 ---

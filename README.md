@@ -47,7 +47,7 @@ $ cat ./chapters.md
 | 05 | [Real Winners Quit](chapters/ch05-real-winners-quit.md) | Strategic quitting and narrative seeds |
 | 06 | [The Five Pillars](chapters/ch06-the-five-pillars.md) | The foundation: five areas that hold your life together |
 | 07 | [me.md](chapters/ch07-me-md.md) | The culmination — building your personal AI context document |
-| 08 | [From Seeds to Story](chapters/ch08-from-seeds-to-story.md) | Optional: narrative identity and story construction |
+| 08 | [From Seeds to Story](chapters/ch08-from-seeds-to-story.md) | Optional: why stories shape us, and Kishōtenketsu |
 | 09 | [The Story Continues](chapters/ch09-the-story-continues.md) | Closing thoughts |
 | | [Acknowledgements](chapters/ch10-acknowledgements.md) | |
 | | [Sources & Further Reading](chapters/ch11-sources.md) | |

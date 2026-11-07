@@ -11,7 +11,7 @@ When reading, I ask only that you resist the urge to separate yourself from the 
 
 ### What is the Goal of Goals?
 
-It is believed that the Babylonians made the first New Year's resolutions about 4000 years ago at the start of their spring barley harvest. Fast forward to today, and millions of people set New Year's resolutions every year. According to the Goal-Setting Theory, a study by Locke & Latham (1990, 2002), goals can direct attention, energise effort and increase persistence. This helps achieve the desired outcome of the goal.
+It is believed that the Babylonians made the first New Year's resolutions about 4000 years ago at the start of their spring barley harvest. Fast forward to today, and millions of people set New Year's resolutions every year. According to the Goal-Setting Theory, a study by Locke & Latham (1990, 2002), goals can direct attention, energise effort and increase persistence.
 
 
 ### "Quitter's Day"
@@ -100,7 +100,7 @@ Important: Please be kind to yourself! These are difficult topics, and you may n
 
 **Step 3: Create a Goal That Serves Your Desire**
 
-Now that you know your underlying desire, you need to translate it into a concrete and actionable goal.
+Now translate your underlying desire into a concrete and actionable goal.
 
 For example, your desire is "I want to feel that I am heard and my ideas are respected"
 
@@ -116,7 +116,7 @@ Your goal should be specific enough that you can estimate how long it will take,
 
 Once you've created your goal, ask: "What's the smallest version of this goal that would still satisfy my desire?" Choose the version that's fastest, most direct, and most aligned with your actual life situation. Don't pick "write a best-selling book" if "become an expert in my community" would satisfy the same desire. Remember that the only thing that matters is how you feel about your situation. Identify the best bang for your buck.
 
-The discipline is found in making the goal smaller and learning how to squeeze the maximum out of it. If you don't, then step 5 will destroy your hopes and dreams. Furthermore, you need to make sure it can be achieved with one single strategy. If your goal requires multiple different strategies, then in my opinion, it's a vision, not a goal. Large visions masquerading as goals force too many strategy changes along the way.
+The discipline is found in making the goal smaller and learning how to squeeze the maximum out of it. If you don't, then step 5 will destroy your hopes and dreams. Furthermore, you need to make sure it can be achieved with one single strategy. If your goal requires multiple different strategies, then in my opinion, it's a vision, not a goal.
 
 Example goals:
 From €1,000/month to €10,000/month = one strategy.
@@ -147,14 +147,14 @@ If 10x kills all your motivation, there may be one of these problems:
 
 Before abandoning a goal, see if you can increase your weekly time commitment. For example, you estimate that learning Spanish takes 3 months at 4 hours a week; this results in a 2.5-year estimate after applying the Multiplier. Alternatively, you envision 8 hours a week and 1.5 months of work, which would result in a roughly 1 year commitment.
 
-Increasing weekly time only works if the goal actually responds to more hours; some things have natural pacing limits. On the flipside, some goals benefit greatly from extra weekly hours, exponentially speeding up completion time. Either way, ramp up slowly. Even a goal that survived all five filters can crush you if you throw yourself at it full speed from day one. Start at a pace that feels almost too easy, and build from there. Sustainable effort beats heroic sprints. If you can't increase weekly commitment, or if even maximum commitment yields a timeline that kills motivation, then the desire most likely isn't strong enough, or you failed to apply the minimisation techniques in the previous steps.
+Increasing weekly time only works if the goal actually responds to more hours; some things have natural pacing limits. On the flipside, some goals benefit greatly from extra weekly hours, exponentially speeding up completion time. Either way, ramp up slowly. Even a goal that survived all five filters can crush you if you throw yourself at it full speed from day one. Start at a pace that feels almost too easy, and build from there. If even your maximum weekly commitment yields a timeline that kills motivation, go back to the three problems above.
 
 Consider two versions of the same type of goal:
 
 Minimized: Building a small business in 6 months turns into 5 years.
 Overly Ambitious: Building a large business in 2 years turns into 20 years.
 
-The difference between 6 months and 2 years seems modest. But after the multiplier, it becomes the difference between a large chapter and the remainder of your career. Small reductions in goal size create massive reductions in required timeline.
+The difference between 6 months and 2 years seems modest, but after the multiplier it becomes the difference between a large chapter and the remainder of your career.
 
 Now, if 10x feels trivially easy, your original estimate was probably a fantasy. Revisit your timeline with more honesty before applying the multiplier. On rare occasions, goals take significantly less effort than even your original estimate. You vastly underestimated your existing capabilities, or the goal was simpler than you thought; luck plays the biggest role in the early completion of goals. If this happens, great. The Reality Multiplier protects you from the far more common scenario: massive underestimation.
 

@@ -1,6 +1,6 @@
 ## Chapter Nine: The Story Continues
 
-If you were expecting a summary, you won't find one here. Eight chapters of arguing against finish lines, and then I hand you a tidy conclusion with bullet points? This would send you off with confidence.
+If you were expecting a summary, you won't find one here. Eight chapters of arguing against finish lines, and then I hand you a tidy conclusion with bullet points? That would send you off with confidence.
 
 But confidence is exactly what got us into this mess. The certainty that we know what we want, that the path is clear, and that arrival is possible.
 
