@@ -454,7 +454,7 @@ to get responses grounded in YOUR patterns, YOUR seeds, YOUR foundation.
 Seeds are the mechanism.
 
 It's based on research about how identity actually works:
-we ARE our stories, and changing the story changes the psychology.
+the stories people tell about themselves are tied to their wellbeing and can predict later behaviour.
 
 Would you like to try any part of this?
 ```

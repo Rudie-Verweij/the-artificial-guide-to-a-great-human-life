@@ -65,7 +65,7 @@ This might be the most practically useful section. How do you want AI to talk to
 
 If you respond well to directness, say so. If motivational cheerleading makes you want to throw your phone, say that. If you need AI to flag when you're running old scripts, write it down. If there are areas where you want help and areas where you don't, make it explicit.
 
-This section shapes every future conversation. Without it you get the default, which is designed to be safe and pleasant, and that usually means fucking useless.
+This section shapes every future conversation. Without it, you get the default. The default is designed to be safe and pleasant, which usually means fucking useless.
 
 
 **Section 6: Revision Log**
@@ -90,7 +90,7 @@ Be aware that when you use a cloud AI service, your conversation is sent to serv
 
 Also consider how these models were built in the first place. Most large language models were trained on enormous amounts of data scraped from the internet, much of it without the consent of the people who created it. This is documented and still being litigated, and it shows they are more than willing to steal.
 
-That said, most of us pour deeply personal information into email services, messaging apps, and social media without a second thought. People confess secrets over Snapchat and send medical details through unencrypted email boxes with 12345 as their password. The document you've built deserves more care than that, but there's no need to be more paranoid about AI than you are about everything else.
+That said, most of us pour deeply personal information into email services, messaging apps, and social media without a second thought. People confess secrets over Snapchat and send medical details through unencrypted email boxes with 12345 as their password. The document you've built deserves more care than that, but the point isn't to be more paranoid about AI than you are about everything else.
 
 The alternative is a local AI model that runs entirely on your own machine, so nothing leaves your computer: no servers, no storage policies, no training data contributions, no third-party access. Models that run on a powerful laptop are already capable enough to work with your document in meaningful ways, and they're improving fast.
 

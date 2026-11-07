@@ -65,7 +65,7 @@ But that was my path. If cooking a proper meal is what feels doable today, start
 
 Two things to watch for. First, don't try to overhaul everything at once. Build slowly: ten minutes of walking becomes twenty, then an hour, and eventually heavier movement if you want it. Each step creates its own motivation for the next. Second, expect the flywheel to be slow at first. The first few weeks feel like pushing a heavy wheel uphill before it starts to turn on its own and pull you along. At some point you'll lose it again. That's normal; restart it, and it gets easier each time.
 
-If you're truly stuck, if nothing feels possible, get professional help. That isn't defeat. Sometimes you need someone to push the wheel with you.
+If you're truly stuck, if nothing feels possible, get professional help. It's not defeat, it's a willingness to fight. Sometimes you need someone to push the wheel with you.
 
 
 ### The Financial Base

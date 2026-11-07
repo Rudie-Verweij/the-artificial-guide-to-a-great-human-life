@@ -39,7 +39,7 @@ Mary H. Jacobsen calls these "hand-me-down dreams": if your family's values mesh
 
 So you quit the inherited games. Now what?
 
-Nothing happens without a difference. Physics calls it a gradient: pressure, heat, electrical potential. You need to want something for anything to move. Eliminating all desire would bring peace, yes, but also paralysis.
+Nothing happens without a difference. Physics calls it a gradient: pressure, heat, electrical potential. You need to want something for anything to move. I assumed that eliminating all desire would achieve peace, yes, but also paralysis.
 
 Like many before me, I sought refuge in Eastern philosophies. Taoism and Buddhism seemed to offer a way out: eliminate craving, eliminate suffering. Extremely attractive. And it works, for a while. Dive deep enough into stillness and the suffering quiets, but so does everything else.
 
@@ -77,7 +77,7 @@ Goals are finite; you either achieve them or fail. Narratives are directional; t
 
 This is what I call a Directional Narrative, the practical expression of chanda: wanting to *do* rather than wanting to *get*.
 
-The stories we tell about ourselves carry real weight. Dan McAdams, who spent decades studying how people construct their identities, concluded that your identity *is* your internalized and evolving life story, and that adults whose stories move from bad to good, where suffering turns into growth, show higher wellbeing. In a study by Dunlop and Tracy of recently sober alcoholics, 83% of those whose stories of their last drink contained such a redemption sequence were still sober at follow-up, against 44% of those without one.
+The stories we tell about ourselves carry real weight. Dan McAdams, who spent decades studying how people construct their identities, concluded that your identity *is* your internalized and evolving life story, and that adults whose stories move from bad to good, where suffering turns into growth, show higher generativity (the drive to contribute to future generations) and wellbeing. In a study by Dunlop and Tracy of recently sober alcoholics, 83% of those whose stories of their last drink contained such a redemption sequence were still sober at follow-up, against 44% of those without one.
 
 
 ### Narrative Seeds

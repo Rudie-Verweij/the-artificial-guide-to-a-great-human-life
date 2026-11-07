@@ -13,7 +13,7 @@ The previous chapter showed you how fragile goals are, but most of us have been 
 
 Turns out after success, the mind decides there's nothing left to examine. You already know why it worked, and you're already scanning for the next target. Research shows the brain actively inhibits goal-related information once a goal has been completed.
 
-After success, you credit yourself: the win must have come from skill, effort, the right strategy. That's often wrong. After failure, your brain generates alternatives (what could I have done differently, what did I miss), and that is how learning happens. After success, this "what if" loop doesn't activate, so you never ask what could have gone wrong but didn't.
+After success, you tend to credit yourself: the win must have come from skill, effort, the right strategy. That's often wrong. After failure, your brain generates alternatives (what could I have done differently, what did I miss), and that is how learning happens. After success, this "what if" loop doesn't activate, so you don't ask what could have gone wrong but didn't.
 
 Jennifer Crocker's research on contingent self-worth shows where this leads. Students who staked their identity on academic success experienced dramatic swings, bigger highs when they won, bigger crashes when they lost. Those who didn't fuse identity with outcomes stayed stable either way.
 
@@ -62,9 +62,13 @@ Do this consistently and loss hurts less when it comes, because you didn't build
 
 ### If You Already Lost
 
-Maybe you're reading this after the crash: the business failed, the relationship ended, the thing you built collapsed, and you feel like a loser.
+Maybe you're reading this after the crash. The business failed. The relationship ended. The thing you built collapsed. You feel like a loser.
 
-**You only lost because you had something.** The pain you feel is proportional to what you had, and it's the cost of having played at all. The farmer's neighbors saw tragedy where the farmer saw one turn of the wheel.
+**You only lost because you had something.** The pain you feel is proportional to what you had, and it's the cost of having played at all.
+
+Loss is not proof that you did something wrong. It's proof that you did something. You built, you gained, you had something worth losing. Most people never get that far.
+
+The farmer's neighbors saw tragedy where the farmer saw one turn of the wheel.
 
 If you skipped the audit on the way up, you can still do it now. What did the gain actually give you while you had it? What did you learn? What would you do differently?
 
