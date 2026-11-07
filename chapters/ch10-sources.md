@@ -13,6 +13,7 @@ The research referenced throughout this guide. If something caught your attentio
 - Bent Flyvbjerg & Dan Gardner, *How Big Things Get Done* (2023). Analysis of 16,000+ large projects showing 91.5% go over budget, over schedule, or both.
 - Roger Buehler, Dale Griffin & Michael Ross, *Exploring the "Planning Fallacy": Why People Underestimate Their Task Completion Times* (1994), Journal of Personality and Social Psychology. We're better at estimating how long things will take others than ourselves.
 - Richard Wiseman, *New Year's Resolution Project* (2007), Quirkology web experiment. Reported that 88% of around 3,000 resolution-setters failed despite many being confident at the outset.
+- John C. Norcross & Dominic J. Vangarelli, *The Resolution Solution: Longitudinal Examination of New Year's Change Attempts* (1988), Journal of Substance Abuse. Of 200 resolution-setters, 77% maintained their pledges for one week, only 19% for two years.
 - Strava, 2019 activity-data analysis, reported by Keith Marshall in *Strava reveals 2020 quitters day* (2020), Sports Insight. Its fitness-activity data informed a prediction that people would be most likely to give up their 2020 fitness resolutions on 19 January.
 
 **Wellbeing & Motivation**

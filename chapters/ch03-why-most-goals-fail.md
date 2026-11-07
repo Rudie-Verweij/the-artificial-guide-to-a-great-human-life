@@ -16,7 +16,7 @@ It is believed that the Babylonians made the first New Year's resolutions about 
 
 ### "Quitter's Day"
 
-Unfortunately, most goals are quickly abandoned, the most famous being the lofty New Year's Eve resolutions. Strava analysed over 800 million activities logged in 2019 and predicted that people were most likely to give up their 2020 fitness resolutions on January 19th (cleverly coined "Quitters Day"). Richard Wiseman's 2007 study of 3,000 participants found that 88% of those who set resolutions fail to achieve them, despite 52% being confident of success when they started. Outside of New Year's resolutions, we set specific goals throughout the year, from savings targets to social media metrics. Whatever the type, they all seem to be plagued by an underestimation of effort.
+Unfortunately, most goals are quickly abandoned, the most famous being the lofty New Year's Eve resolutions. Strava analysed over 800 million activities logged in 2019 and predicted that people were most likely to give up their 2020 fitness resolutions on January 19th (cleverly coined "Quitter's Day"). Richard Wiseman's 2007 study of 3,000 participants found that 88% of those who set resolutions fail to achieve them, despite 52% being confident of success when they started. Outside of New Year's resolutions, we set specific goals throughout the year, from savings targets to social media metrics. Whatever the type, they all seem to be plagued by an underestimation of effort.
 
 
 ### Planning Fallacy

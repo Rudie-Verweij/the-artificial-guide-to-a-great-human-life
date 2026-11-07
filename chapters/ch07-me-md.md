@@ -70,7 +70,7 @@ This section shapes every future conversation. Without it you get the default, w
 
 **Section 6: Revision Log**
 
-Keep a revision log. Nobody's checking; the point is that the changes become a record of your own evolution. "March 2027- updated Section 3, old seed no longer resonates, replaced with one that reflects where I actually am." "June - rewrote Section 1 after processing shutting down the company."
+Keep a revision log. Nobody's checking; the point is that the changes become a record of your own evolution. "March 2027: updated Section 3, old seed no longer resonates, replaced with one that reflects where I actually am." "June 2027: rewrote Section 1 after processing shutting down the company."
 
 Most people won't maintain their me.md. They'll write a version, feel satisfied, and let it gather dust, and that's okay. Even a single honest version, written once, is more self-knowledge than most people ever organize. It will still serve you when you paste it into a conversation two years from now, just not as well as one you've kept current.
 
