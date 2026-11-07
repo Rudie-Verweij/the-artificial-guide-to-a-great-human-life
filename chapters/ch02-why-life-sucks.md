@@ -16,7 +16,7 @@ My personal relationship with ambitions started early. As a kid, after years of 
 
 Outside of school, I started to develop technical hobbies that gave me the sense that I could be good at something, that I was allowed to be here, as I could provide something of value. This slowly turned into an obsession that would consume me and push me towards an entrepreneurial path.
 
-Many years later, I co-founded a deep tech startup where we raised millions, travelled the world on a monthly basis and became a familiar face in the Dutch deep tech scene. I used some of my newfound wealth to experience the finer things in life, €500 steak dinners, the best wines in the world and other hedonic pleasures (the kind that feel good in the moment but don't stick). As expected, these pleasures were not really solid. However, what did surprise me was the pain my lifestyle was generating. As the years went on, I found myself heading towards a destructive lifestyle, fueled by stress and the need to prove my worth, accumulating more wealth while feeling poorer than ever. I assumed the problem was my circumstances... It wasn't. It was how I'd been taught to use my mind.
+Many years later, I co-founded a deep tech startup where we raised millions, travelled the world on a monthly basis and became a familiar face in the Dutch deep tech scene. I used some of my newfound wealth to experience the finer things in life, €500 steak dinners, the best wines in the world and other hedonic pleasures (the kind that feel good in the moment but don't stick). As expected, these pleasures were not really solid. However, what did surprise me was the pain my lifestyle was generating. As the years went on, I found myself heading towards a destructive lifestyle, fueled by stress and the need to prove my worth, accumulating more wealth while feeling poorer than ever. I assumed the problem was my circumstances, but it was how I'd been taught to use my mind.
 
 
 ### Your mental "Knife"
@@ -28,6 +28,6 @@ The brain seems to be designed not to be satisfied with what it has. Throughout 
 
 A common question in my circles centres around how to become rich, wealthy, famous, happy, powerful, etc. The short answer is you will never become any of this, you can not be rich, you can only experience the feeling of richness. This may sound trivial, but it reveals a crucial hint: the only true difference between being successful and a failure is how you interpret your situation. For most, it is a moving goal that one will never reach. There has been much effort spent on how to achieve your goals, how to push yourself to get your dream car, house, vacation, wagyu steak and much more. Unfortunately, we forgot to ask the only question that matters: what is this goal actually for? Complete the wrong goal and you may end up further from where you want to be.
 
-The patterns you recognized in this chapter (how you relate to struggle, what you chase, what drains you) become raw material for a document you'll build later. For now, just notice the patterns.
+The patterns you recognized in this chapter (how you relate to struggle, what you chase, what drains you) are raw material for the document you'll build later. For now, just notice them.
 
 ---

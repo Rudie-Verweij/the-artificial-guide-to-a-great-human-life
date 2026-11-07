@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-v1.0.1--alpha-F0F0F0?style=flat-square&labelColor=111111&color=555555" alt="Version">
   <img src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-F0F0F0?style=flat-square&labelColor=111111&color=555555" alt="License">
-  <img src="https://img.shields.io/badge/chapters-9-F0F0F0?style=flat-square&labelColor=111111&color=555555" alt="Chapters">
+  <img src="https://img.shields.io/badge/chapters-8-F0F0F0?style=flat-square&labelColor=111111&color=555555" alt="Chapters">
 </p>
 
 ---
@@ -34,8 +34,7 @@ $ cat ./chapters.md
 # 05  Real Winners Quit
 # 06  The Five Pillars
 # 07  me.md
-# 08  From Seeds to Story
-# 09  The Story Continues
+# 08  The Story Continues
 ```
 
 | # | Chapter | What It Covers |
@@ -47,10 +46,9 @@ $ cat ./chapters.md
 | 05 | [Real Winners Quit](chapters/ch05-real-winners-quit.md) | Strategic quitting and narrative seeds |
 | 06 | [The Five Pillars](chapters/ch06-the-five-pillars.md) | The foundation: five areas that hold your life together |
 | 07 | [me.md](chapters/ch07-me-md.md) | The culmination — building your personal AI context document |
-| 08 | [From Seeds to Story](chapters/ch08-from-seeds-to-story.md) | Optional: why stories shape us, and Kishōtenketsu |
-| 09 | [The Story Continues](chapters/ch09-the-story-continues.md) | Closing thoughts |
-| | [Acknowledgements](chapters/ch10-acknowledgements.md) | |
-| | [Sources & Further Reading](chapters/ch11-sources.md) | |
+| 08 | [The Story Continues](chapters/ch08-the-story-continues.md) | Closing thoughts |
+| | [Acknowledgements](chapters/ch09-acknowledgements.md) | |
+| | [Sources & Further Reading](chapters/ch10-sources.md) | |
 
 ## The me.md
 

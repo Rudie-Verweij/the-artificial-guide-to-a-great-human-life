@@ -14,21 +14,21 @@ The most important pillar. Without decent sleep, the other four become nearly im
 
 Both internal and external. With internal motion, I mean energy, breath, emotions. External motion is physical movement, walking, experiencing the world through a body that moves. Humans evolved under constant physical stress. There is no evolutionary adaptation for sitting still.
 
-For many, walking works because the barrier is low. You can do it anywhere, anytime. It aids digestion, clears the mind, creates what I call "a one centimeter gap" between your current feeling and your ability to plan. That gap is everything. That gap is what breaks the cycle of stuckness.
+For many, walking works because the barrier is low. You can do it anywhere, anytime. It aids digestion, clears the mind, and creates what I call "a one centimeter gap" between your current feeling and your ability to plan. That gap is what breaks the cycle of stuckness.
 
 
 ### Intake
 
-Both physical and mental. With physical intake, I mean food. Your body is literally constructed from what you eat. Quality matters, but this isn't about expensive or fancy. Optimize for clean, natural, minimal ingredients and good macros for your body.
+Both physical and mental. With physical intake, I mean food. Your body is constructed from what you eat. Quality matters, but this isn't about expensive or fancy. Optimize for clean, natural, minimal ingredients and good macros for your body.
 
 With mental intake, I mean what you consume with your mind. Garbage in, garbage out. Opening Instagram the moment you wake up is cracking a mental beer for breakfast. Mental junk food has its place, but sparingly.
 
 
 ### Connection
 
-Humans are social animals. Isolation degrades mental health faster than almost anything else on this list. You don't need to be a social butterfly. You don't need a packed calendar or a wide circle. You need some contact. A real conversation with a friend. A chat with your neighbor. A phone call that goes beyond logistics.
+Humans are social animals. Isolation degrades mental health faster than almost anything else on this list. You don't need to be a social butterfly with a packed calendar and a wide circle. You need some contact: a real conversation with a friend, a chat with your neighbor, a phone call that goes beyond logistics.
 
-I say this as someone who will happily go days without seeing another person. I get it. "I'm an introvert." "I don't need people." "I prefer being alone." And maybe you genuinely need less social stimulation. That's real, but zero connection isn't introversion, it's isolation.
+I say this as someone who will happily go days without seeing another person. I get it. "I'm an introvert." "I don't need people." "I prefer being alone." And maybe you genuinely need less social stimulation. That's real, but zero connection is isolation, whatever you call it.
 
 The barrier is low; text a friend back, say hi to someone at the coffee shop, walk with someone instead of alone. You don't need to start with fully opening up. You just need to not be completely alone. A trusted therapist counts too.
 
@@ -44,7 +44,7 @@ Creation naturally disrupts everything else. Projects make you forget to eat, sk
 
 The pillars feed each other like a flywheel, for better and for worse.
 
-Better sleep clears the fog that makes everything feel impossible. That clarity creates a small opening to move. Movement calms the internal noise enough to make better food choices. Better food gives your body the raw materials to sleep deeper. Somewhere in that momentum, you start reaching out, answering a text, saying yes to coffee with a friend. Connection creates a sense of belonging that solo discipline can't manufacture. And that belonging fuels creation, the feeling that what you make matters. The cycle accelerates.
+Better sleep clears the fog that makes everything feel impossible. That clarity creates a small opening to move. Movement calms the internal noise enough to make better food choices. Better food gives your body the raw materials to sleep deeper. Somewhere in that momentum, you start reaching out, answering a text, saying yes to coffee with a friend. Connection creates a sense of belonging that solo discipline can't manufacture, and that belonging fuels creation, the feeling that what you make matters.
 
 It works in reverse too. A few nights of bad sleep and your willpower evaporates, so you reach for the easiest food. The processed carbs spike and crash, making sleep worse, and you don't feel like moving. You cancel plans, stop answering messages, tell yourself you'll be more social when you feel better. Internal motion stalls, thoughts start looping, and suddenly you're three weeks deep into a pattern you can't explain, and no one's close enough to notice.
 
@@ -65,7 +65,7 @@ But that was my path. If cooking a proper meal is what feels doable today, start
 
 Two things to watch for. First, don't try to overhaul everything at once. Build slowly: ten minutes of walking becomes twenty, then an hour, and eventually heavier movement if you want it. Each step creates its own motivation for the next. Second, expect the flywheel to be slow at first. The first few weeks feel like pushing a heavy wheel uphill before it starts to turn on its own and pull you along. At some point you'll lose it again. That's normal; restart it, and it gets easier each time.
 
-If you're truly stuck, if nothing feels possible, get professional help. It's not defeat, it's a willingness to fight. Sometimes you need someone to push the wheel with you.
+If you're truly stuck, if nothing feels possible, get professional help. That isn't defeat. Sometimes you need someone to push the wheel with you.
 
 
 ### The Financial Base
@@ -82,7 +82,7 @@ After the basics are covered, more money doesn't improve the pillars. Often it m
 
 And remember, working on these pillars can be done together with professional help. Think of a therapist, coach, or doctor. Anything to help you get to a safe haven.
 
-Your honest assessment of the pillars (where each one stands, which one you'd start with, how they cascade for you specifically) becomes the foundation section of your document. Knowing this about yourself, clearly and without judgment, lets any AI helping you see where the ground is solid and where it isn't.
+Your honest assessment of the pillars (where each one stands, which one you'd start with, how they cascade for you specifically) becomes the foundation section of your document. Knowing this clearly and without judgment lets any AI helping you see where the ground is solid and where it isn't.
 
 
 ---

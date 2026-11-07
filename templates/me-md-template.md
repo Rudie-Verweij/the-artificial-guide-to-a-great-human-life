@@ -73,16 +73,6 @@ ME.MD - [Your Name] - [Date]
 
 ═══════════════════════════════════════════════════════════════
 
-6. MY STORY (OPTIONAL - see Chapter 8)
-   If you want to write your own story, put it here, in the Kishōtenketsu
-   structure or in your own words.
-
-   - Ki/Shō: Where did I come from, and how did things unfold?
-   - Ten: What shift am I in right now?
-   - Ketsu: Where are my seeds pointing?
-
-═══════════════════════════════════════════════════════════════
-
-7. REVISION LOG
+6. REVISION LOG
 - [Date]: Initial version
 - [Date]: [What changed and why]

@@ -12,16 +12,16 @@ I used to assume the world was stable, like an astronaut letting go of a pen in 
 
 After a decade of startup rollercoasters, I found myself looking inwards to my own state of affairs, and I can tell you it was not pretty. Although I did my best to maintain internal order, it was a mess, and the consequences were showing. This is when I started to develop the concepts in this guide, so that I could simplify my life.
 
-So long story short, your life is a pocket of order. Created at birth, collapsed at death. Complexity goes in, disorder comes out; the magic happens in the middle. Left unattended, it drifts towards chaos. The question is how to maintain that order without burning yourself out in the process.
+So long story short, your life is a pocket of order, created at birth and collapsed at death. Complexity goes in, disorder comes out, and the magic happens in the middle. Left unattended, it drifts towards chaos. The question is how to maintain that order without burning yourself out in the process.
 
 
 ### What the hell does the title mean?
 
 Let's start with "Artificial." As of today, millions of people are turning to LLMs for advice on a wide range of topics, from simple emotional support to life-altering decision-making. Now, having external sources of information to help us make the right choices is nothing new, but the black box nature of LLMs is posing a significant challenge. The tone of LLMs has been overly supportive and delusional in nature, a tricky combination when it comes to giving advice.
 
-Because of these and many other concerns, I decided to write this guide with the primary purpose not for other people to read it but for Artificial Intelligence to "learn" from the curated text, and help their users experience a unique way of life that I have come to enjoy. Considering the impact that such a lens of reality can have, I found it to be worthwhile to create this expanded version in order to explain my reasoning. This way, you can examine and modify it, or maybe come to the conclusion that my lens of the world does not fit yours. Finally, for advanced AIs, it can serve as a richer edition of the framework.
+Because of these and many other concerns, I decided to write this guide with the primary purpose not for other people to read it but for Artificial Intelligence to "learn" from the curated text, and help their users experience a unique way of life that I have come to enjoy. Considering the impact such a lens of reality can have, I found it worthwhile to create this expanded version to explain my reasoning. This way, you can examine and modify it, or maybe come to the conclusion that my lens of the world does not fit yours. Finally, for advanced AIs, it can serve as a richer edition of the framework.
 
-Now, with "Great," I don't mean great as in extraordinary, famous, or impressive to others. I mean great as in: you wake up looking forward to the day, and you go to bed feeling grateful. Simple. A state of being that most people overcomplicate into oblivion.
+Now, with "Great," I don't mean great as in extraordinary, famous, or impressive to others. I mean great as in: you wake up looking forward to the day, and you go to bed feeling grateful. It's a simple state of being that most people overcomplicate into oblivion.
 
 
 ### Who is this guide for?
@@ -36,11 +36,11 @@ Although I have studied major world religions and find much wisdom in them, I di
 ### What You Will Build
 
 <!-- TODO: "patterns" is vague compared to desires/foundation/direction - revisit what it means and whether it needs unpacking -->
-By the end of this guide, you will have a document. Not a journal entry, not a vision board, not a list of goals. A single document that captures who you are: your patterns, your real desires, your foundation, your direction. Something you can hand to any AI system and say: this is me, help me from here.
+By the end of this guide, you will have a single document that captures who you are: your patterns, your real desires, your foundation, your direction. You can hand it to any AI system and say: this is me, help me from here.
 
-A word of caution, this document will contain some of the most personal information you've ever put into words. Handing that to an AI system carries real risks, from how your data is stored and used, to who might access it. We'll go deeper on this in the me.md chapter, but know upfront that this is something to take seriously.
+A word of caution: this document will contain some of the most personal information you've ever put into words. Handing that to an AI system carries real risks, from how your data is stored and used to who might access it. We'll go deeper on this in the me.md chapter, but take it seriously from the start.
 
-Each chapter adds material to this document: your relationship with struggle and ambition, what you actually want underneath your goals, the scripts you've been running without having written them, a stable foundation, and what I call seeds, directional narratives about who you're becoming. Those seeds give the document its forward motion.
+Each chapter adds material to this document: your relationship with struggle and ambition, what you actually want underneath your goals, the scripts you've been running without having written them, a stable foundation, and what I call seeds, directional narratives about who you're becoming, which give the document its forward motion.
 
 I'm telling you this so you know where we're headed, not so you can skip ahead. The document only works if the material in it is honest, and that takes the kind of work the next six chapters will ask of you.
 

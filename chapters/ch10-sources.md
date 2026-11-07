@@ -13,7 +13,6 @@ The research referenced throughout this guide. If something caught your attentio
 - Bent Flyvbjerg & Dan Gardner, *How Big Things Get Done* (2023). Analysis of 16,000+ large projects showing 91.5% go over budget, over schedule, or both.
 - Roger Buehler, Dale Griffin & Michael Ross, *Exploring the "Planning Fallacy": Why People Underestimate Their Task Completion Times* (1994), Journal of Personality and Social Psychology. We're better at estimating how long things will take others than ourselves.
 - Richard Wiseman, *New Year's Resolution Project* (2007), Quirkology web experiment. Reported that 88% of around 3,000 resolution-setters failed despite many being confident at the outset.
-- John C. Norcross & Dominic J. Vangarelli, *The Resolution Solution: Longitudinal Examination of New Year's Change Attempts* (1988), Journal of Substance Abuse. Of 200 resolution-setters, 77% maintained their pledges for one week, only 19% for two years.
 - Strava, 2019 activity-data analysis, reported by Keith Marshall in *Strava reveals 2020 quitters day* (2020), Sports Insight. Its fitness-activity data informed a prediction that people would be most likely to give up their 2020 fitness resolutions on 19 January.
 
 **Wellbeing & Motivation**
@@ -33,7 +32,6 @@ The research referenced throughout this guide. If something caught your attentio
 **Identity & Narrative**
 
 - Dan P. McAdams & Kate C. McLean, *Narrative Identity* (2013), Current Directions in Psychological Science. Your narrative identity is your internalised, evolving life story, and redemptive stories are associated with higher wellbeing and generativity.
-- Jonathan M. Adler, *Living into the Story: Agency and Coherence in a Longitudinal Study of Narrative Identity Development and Mental Health over the Course of Psychotherapy* (2012), Journal of Personality and Social Psychology. Across 47 adults and nearly 600 psychotherapy narratives, increases in agency in the stories came before improvements in mental health.
 - William L. Dunlop & Jessica L. Tracy, *Sobering Stories: Narratives of Self-Redemption Predict Behavioral Change and Improved Health among Recovering Alcoholics* (2013), Journal of Personality and Social Psychology. Among newly sober participants, 83% whose last-drink stories contained self-redemption maintained sobriety at follow-up, compared with 44% of those without it.
 - Mary H. Jacobsen, *Hand-Me-Down Dreams: How Families Influence Our Career Paths and How We Can Reclaim Them* (1999). On inherited family values that conflict with personal direction.
 
@@ -42,4 +40,3 @@ The research referenced throughout this guide. If something caught your attentio
 - Stoicism, *Premeditatio malorum*: mentally rehearsing loss before it arrives.
 - Buddhism, the distinction between *taṇhā* (compulsive craving) and wholesome aspiration (*kusala-chanda*).
 - Taoism, the Taoist farmer parable on the impermanence of fortune.
-- Kishōtenketsu, East Asian narrative structure from Chinese Tang Dynasty poetry. Four movements: introduction, development, twist, reconciliation.

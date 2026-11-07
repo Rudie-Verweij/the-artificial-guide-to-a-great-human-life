@@ -11,25 +11,23 @@ When reading, I ask only that you resist the urge to separate yourself from the 
 
 ### What is the Goal of Goals?
 
-It is believed that the Babylonians made the first New Year's resolutions about 4000 years ago at the start of their spring barley harvest. Fast forward to today, and millions of people set New Year's resolutions every year. According to the Goal-Setting Theory, a study by Locke & Latham (1990, 2002), goals can direct attention, energise effort and increase persistence.
+It is believed that the Babylonians made the first New Year's resolutions about 4000 years ago at the start of their spring barley harvest. Fast forward to today, and millions of people set New Year's resolutions every year. According to Goal-Setting Theory, developed by Locke & Latham (1990, 2002), goals can direct attention, energise effort and increase persistence.
 
 
 ### "Quitter's Day"
 
-Unfortunately, most goals are quickly abandoned, the most famous being the lofty New Year's Eve resolutions. Strava analysed over 800 million activities logged in 2019 and predicted that people were most likely to give up their 2020 fitness resolutions on January 19th (cleverly coined "Quitters Day"). The numbers get worse: Richard Wiseman's 2007 study of 3,000 participants found that 88% of those who set resolutions fail to achieve them, despite 52% being confident of success when they started. Outside of New Year's resolutions that often focus on habit changes, we often set specific goals throughout the year. This can be related to financial achievements such as savings goals or external validations such as social media metrics. No matter the type of goal, they all seem to be plagued by an underestimation of effort.
+Unfortunately, most goals are quickly abandoned, the most famous being the lofty New Year's Eve resolutions. Strava analysed over 800 million activities logged in 2019 and predicted that people were most likely to give up their 2020 fitness resolutions on January 19th (cleverly coined "Quitters Day"). Richard Wiseman's 2007 study of 3,000 participants found that 88% of those who set resolutions fail to achieve them, despite 52% being confident of success when they started. Outside of New Year's resolutions, we set specific goals throughout the year, from savings targets to social media metrics. Whatever the type, they all seem to be plagued by an underestimation of effort.
 
 
 ### Planning Fallacy
 
-It's not a matter of intelligence, some of the smartest people in the world entrusted with billions are falling for the same underestimation of timelines. The term "Planning Fallacy" was introduced by Daniel Kahneman and Amos Tversky in 1979 in their paper "Intuitive Prediction: Biases and Corrective Procedures." They realised that we tend to underestimate the time required to complete a goal, even when we have past experiences of failure. In other words, we not only underestimate the needed time, but also do not learn from those mistakes! Roger Buehler's studies reveal further critical insights, such as the fact that we more accurately predict the required time when planning for others compared to ourselves. The reasoning for this is complex but centres around the following points:
+It's not a matter of intelligence, some of the smartest people in the world entrusted with billions are falling for the same underestimation of timelines. The term "Planning Fallacy" was introduced by Daniel Kahneman and Amos Tversky in 1979 in their paper "Intuitive Prediction: Biases and Corrective Procedures." They realised that we tend to underestimate the time required to complete a goal, even when we have past experiences of failure. Roger Buehler's studies add that we more accurately predict the required time when planning for others than for ourselves. The reasons are complex but centre around the following points:
 
 Memory Biases: We misremember how long tasks took in the past.
 Planning Simulations: When we think of the future, we often can only simulate a perfect world without setbacks.
 Uniqueness Bias: Bent Flyvbjerg's megaproject research identified the tendency to see one's own goals as unique.
 
-Bent Flyvbjerg illustrates these 3 points brilliantly by analysing over 16,000 large projects and finding 91.5% go over budget, over schedule, or both. Fewer than 1% are completed on time, on budget, and deliver promised benefits.
-
-Further examples of mega projects failing to achieve their goals:
+Flyvbjerg analysed over 16,000 large projects and found that 91.5% go over budget, over schedule, or both. Fewer than 1% are completed on time, on budget, and deliver promised benefits. A few well-known examples:
 
 Sydney Opera House: Estimated $7 million completion; actual $102 million.
 Channel Tunnel: Predicted £4.9 billion; actual £10+ billion.
@@ -38,11 +36,11 @@ Denver International Airport: 200% cost overrun.
 
 ### Play silly games, win silly prizes
 
-Now, some would argue that being overly optimistic is a good thing, as it can get us started, but unfortunately, setting shitty goals has shitty consequences. Research by Kasser and Ryan found that people who strongly valued financial success reported worse psychological health. The pattern holds: a meta-analysis by Dittmar, Bond, Hurst, and Kasser confirmed that materialism is connected with lower life satisfaction, risky health behaviours, and negative self-image.
+Now, some would argue that being overly optimistic is a good thing, as it can get us started, but unfortunately, setting shitty goals has shitty consequences. Research by Kasser and Ryan found that people who strongly valued financial success reported worse psychological health, and a meta-analysis by Dittmar, Bond, Hurst, and Kasser confirmed that materialism is connected with lower life satisfaction, risky health behaviours, and negative self-image.
 
 Even if the timeline is correctly estimated, sticking with the wrong goals is challenging and can be dangerous. "Goal Contents Theory" describes the difference between intrinsic and extrinsic goals. Intrinsic goals include personal growth, meaningful relationships, community involvement, and physical health. Extrinsic goals include financial success, fame, and image/appearance.
 
-Knowing the negatives of extrinsic goals, why are we so often drawn to them? A meta-analysis by McComb et al. found that being exposed to social media content showing a higher social status negatively affects the users' well-being and contributes to further feelings of depression. Social media users consistently set more extrinsic goals. This comparison also holds up in the real world, where being exposed to what others have can increase your desire to "keep up with the Joneses", an American saying describing the need to keep up with the neighbours when they buy a new car or go on a luxury holiday. The fundamental problem with extrinsic goals is that they fail to satisfy the psychological needs they are unconsciously meant to address:
+Knowing the negatives of extrinsic goals, why are we so often drawn to them? A meta-analysis by McComb et al. found that being exposed to social media content showing a higher social status negatively affects the users' well-being and contributes to further feelings of depression. Social media users consistently set more extrinsic goals. The same comparison happens offline, where seeing what others have can increase your desire to "keep up with the Joneses", an American saying for the need to match the neighbours when they buy a new car or go on a luxury holiday. The fundamental problem with extrinsic goals is that they fail to satisfy the psychological needs they are unconsciously meant to address:
 
 Surface Goal: Wealth → Underlying Need: Security.
 Surface Goal: Fame → Underlying Need: Recognition that one matters.
@@ -52,12 +50,12 @@ Surface Goal: Status Symbols → Underlying Need: Being recognised as a competen
 
 ### The rat race offers no cheese at the finish line
 
-Another danger is the "Arrival Fallacy," which makes many believe that achieving a specific goal will bring lasting happiness. The consequences of relying on the "Arrival Fallacy" are well exemplified in post-Olympic depression. Olympic superstars are often depicted as the very definition of drive and determination. In the meantime, a large portion of them suffer from major mental difficulties right after their big victory. They are often operating in a constant state of desire to motivate their relentless action. When their desire is seemingly fulfilled, it can have devastating effects.
+Another danger is the "Arrival Fallacy," which makes many believe that achieving a specific goal will bring lasting happiness. Post-Olympic depression shows where this leads. Olympic superstars are often depicted as the very definition of drive and determination, yet a large portion of them suffer from major mental difficulties right after their big victory. They often operate in a constant state of desire that fuels their relentless action, and when that desire is seemingly fulfilled, the effects can be devastating.
 
 
 ### Effortless Goals
 
-In response to these and other challenges, I propose the concept of Effortless Goals. A method to help set more sustainable goals that improve one's well-being. People often say, "You can do anything you set your mind to". This is, in my humble opinion, total bullshit. That is why Effortless Goals are designed to cut the crap and try to be as close to reality as possible. Think of it as harm reduction for goal-setting: clean needles and proper dosing will help reduce casualties, but do not necessarily solve the underlying problems. The deeper work comes in later chapters.
+In response to these and other challenges, I propose the concept of Effortless Goals, a method to help set more sustainable goals that improve one's well-being. People often say, "You can do anything you set your mind to". This is, in my humble opinion, total bullshit. That is why Effortless Goals are designed to cut the crap and try to be as close to reality as possible. Think of it as harm reduction for goal-setting: clean needles and proper dosing will help reduce casualties, but do not necessarily solve the underlying problems. The deeper work comes in later chapters.
 
 The method has five steps. Each one acts as a filter, the goals that make it through all five are likely worth pursuing. Goals that don't should probably be abandoned.
 
@@ -84,7 +82,7 @@ Further examples:
 "I want to get fit" may mask → "I want to feel attractive" or "I want control over my life"
 "I want to start a business" may mask → "I want autonomy" or "I want to prove I'm capable"
 
-You can drill down to your core desire by continuously asking why, as if you are trying to understand somebody else's point of view:
+Keep asking why, as if you are trying to understand somebody else's point of view:
 
 "I want to start a podcast" Why? → "To share my ideas" Why? → "Because I have insights people should hear" Why? → "Because I want recognition for my thinking" Why? → "Because I want to feel like I matter and my ideas are respected"
 
@@ -95,7 +93,7 @@ Acceptance (belonging, being valued, mattering to others, love)
 Autonomy (control, freedom, self-determination, independence)
 Competence (feeling capable, respected for skills, mastery, being "enough")
 
-Important: Please be kind to yourself! These are difficult topics, and you may not like what you find. Have patience and realise that we are all human. This step is not about shaming, it's about removing the weight of being dishonest to yourself so that you can start moving towards a better future.
+Important: Please be kind to yourself! These are difficult topics, and you may not like what you find. Have patience and realise that we are all human. The point of this step is to take away the weight of being dishonest to yourself so that you can start moving towards a better future.
 
 
 **Step 3: Create a Goal That Serves Your Desire**
@@ -127,7 +125,7 @@ Each strategy shift is essentially a new goal.
 
 **Step 5: The Reality Multiplier**
 
-Now take your reframed, minimized, single-strategy goal and estimate the total effort required. Consider how many hours per week you'll dedicate to this and how many weeks/months/years it will take.
+Now take your reframed, minimized, single-strategy goal and estimate the total effort required: how many hours per week you'll dedicate to it, and how many weeks/months/years it will take.
 
 Express this as a time estimation:
 "2 hours/week for 6 months" (50 hours)
@@ -136,7 +134,7 @@ Express this as a time estimation:
 
 Account for difficulty! If something is completely new to you or requires intense focus, the same clock hours cost more psychological effort, and you will not be able to do as many per week.
 
-Now comes the really shitty part. Multiply your total effort estimate by 10. Yes, 10x. I know... fuck that. But unfortunately, this is your realistic baseline, not worst case, not pessimistic. This is what you should actually expect.
+Now comes the really shitty part. Multiply your total effort estimate by 10. Yes, 10x. I know... fuck that. But unfortunately, this is your realistic baseline, and what you should actually expect.
 
 Now ask yourself: If this goal takes 10x more effort than I thought, do I still want it? The results are often devastating, that "6-month side project" (50 hours) now becomes a 5-year endeavour (500 hours).
 
@@ -154,9 +152,9 @@ Consider two versions of the same type of goal:
 Minimized: Building a small business in 6 months turns into 5 years.
 Overly Ambitious: Building a large business in 2 years turns into 20 years.
 
-The difference between 6 months and 2 years seems modest, but after the multiplier it becomes the difference between a large chapter and the remainder of your career.
+Before the multiplier, the gap between 6 months and 2 years seems modest. After it, the gap is between a large chapter and the remainder of your career.
 
-Now, if 10x feels trivially easy, your original estimate was probably a fantasy. Revisit your timeline with more honesty before applying the multiplier. On rare occasions, goals take significantly less effort than even your original estimate. You vastly underestimated your existing capabilities, or the goal was simpler than you thought; luck plays the biggest role in the early completion of goals. If this happens, great. The Reality Multiplier protects you from the far more common scenario: massive underestimation.
+Now, if 10x feels trivially easy, your original estimate was probably a fantasy. Revisit your timeline with more honesty before applying the multiplier. On rare occasions, goals take significantly less effort than even your original estimate, because you underestimated your existing capabilities or the goal was simpler than you thought; luck plays the biggest role in the early completion of goals. If this happens, great. The Reality Multiplier protects you from the far more common scenario: massive underestimation.
 
 If your goal comes out of the 5 steps successfully, then to you I say "Happy Hunting".
 
