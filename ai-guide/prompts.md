@@ -32,7 +32,7 @@ Once we've found the core desire, help me translate it into a concrete, actionab
 Help me find the smallest version of this goal that still satisfies the core desire. The discipline is making it smaller. It must be achievable with ONE strategy — if it needs multiple strategies, it's a vision, not a goal.
 
 **Step 5: Reality Multiplier**
-Ask me to estimate total hours needed (hours/week × duration). Then multiply by 10. This isn't pessimism — research shows we underestimate effort by roughly 10x (Kahneman's Planning Fallacy: 91.5% of major projects go over budget/schedule). Ask: "At 10x the effort, do you still want this?"
+Ask me to estimate total hours needed (hours/week × duration). Then multiply by 10. This isn't pessimism. We systematically underestimate effort (planning fallacy; Flyvbjerg found 91.5% of major projects go over budget, schedule, or both), so the guide uses 10x as the realistic baseline. Ask: "At 10x the effort, do you still want this?"
 
 **What happens after:**
 - If the goal survives all 5 steps: "Happy Hunting" — proceed with clear eyes. Ramp up slowly; sustainable effort beats heroic sprints.
@@ -250,7 +250,7 @@ I'm going to describe a life-direction framework. Read it and then ask me how yo
 
 The framework comes from "The Artificial Guide to a Great Human Life." Core premise:
 
-Most goals are fragile — you succeed or fail, and even success often doesn't satisfy (arrival fallacy, dopamine mediates wanting not liking). We chase inherited scripts from parents, culture, and social media without realizing it. We underestimate effort by roughly 10x (planning fallacy). And we fuse identity with outcomes, which means gain is addictive and loss is devastating.
+Most goals are fragile — you succeed or fail, and even success often doesn't satisfy (arrival fallacy, dopamine mediates wanting not liking). We chase inherited scripts from parents, culture, and social media without realizing it. We underestimate effort (planning fallacy), which is why this guide multiplies every estimate by 10. And we fuse identity with outcomes, which means gain is addictive and loss is devastating.
 
 The alternative:
 1. **Filter goals** using Effortless Goals (5-step method: surface goal → radical self-honesty to find core desire → create aligned goal → minimize → multiply timeline by 10)

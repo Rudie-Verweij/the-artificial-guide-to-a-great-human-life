@@ -31,7 +31,7 @@ The story continues.
 
 &nbsp;
 
-"May I never be complete. May I never be content. May I never be perfect." Fight Club (1999)
+"May I never be complete. May I never be content. May I never be perfect." Chuck Palahniuk, Fight Club (1996)
 
 &nbsp;
 

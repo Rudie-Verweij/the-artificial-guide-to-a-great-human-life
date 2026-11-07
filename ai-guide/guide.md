@@ -71,7 +71,7 @@ Find smallest version that still satisfies the desire. Must be achievable with O
 2. **Multiply total by 10** (not worst case—realistic baseline)
 3. Ask: "Do I still want this at 10× effort?"
 
-**Example:** "6-month side project" (50 hrs) → 500 hrs = 2-3 years
+**Example:** "6-month side project" (50 hrs) → 500 hrs = ~5 years (at 2 hrs/week)
 
 | If motivation killed | Action |
 |---------------------|--------|
@@ -87,7 +87,7 @@ Notes: Some goals have natural pacing limits. Ramp up slowly—sustainable effor
 
 **Arrival fallacy:** Achieving goal ≠ lasting happiness. Post-Olympic depression common. Constant desire as motivation → goal achieved → void.
 
-**Quitters Day** [Strava, 800M users]: Resolutions abandoned by Jan 19. 77% maintained 1 week, 19% at 2 years [Norcross]. 88% fail despite 52% confidence [Wiseman, 3,000 participants].
+**Quitters Day** [Strava, 800M activities logged in 2019]: Jan 19 predicted as the day 2020 fitness resolutions were most likely abandoned. 77% maintained 1 week, 19% at 2 years [Norcross]. 88% fail despite 52% confidence [Wiseman, 3,000 participants].
 
 | Intrinsic Goals | Extrinsic Goals |
 |----------------|-----------------|
@@ -129,7 +129,7 @@ After success, brain decides nothing to examine. Goal-related info actively inhi
 
 - Short-term regret: actions dominate. Long-term regret: inactions dominate (72%) [Gilovich]
 - #1 palliative regret: "Wish I had courage to live true to myself" [Ware]
-- Moderate adversity → better mental health than high OR zero adversity [Seery, 2,400 people, 10yr]
+- Moderate adversity → better mental health than high OR zero adversity [Seery, 2,400 people, 2001-2004]
 
 ### Post-Achievement Audit (PAA)
 
@@ -311,7 +311,7 @@ Before sharing with any AI, answer: (1) Does this provider store conversations? 
 
 ### Narrative Identity Research
 
-Identity IS your internalized evolving life story [McAdams]. Stories change BEFORE wellbeing changes—narrate new version → 1-2 weeks later wellbeing follows [Adler, 47 adults, ~600 narratives]. Alcoholic last-drink stories with redemption: 83% sober vs 44% without.
+Identity IS your internalized evolving life story [McAdams]. Agency in stories rises BEFORE wellbeing changes: narrate new version → 1-2 weeks later wellbeing follows [Adler, 47 adults, ~600 narratives]. Alcoholic last-drink stories with redemption: 83% still sober at follow-up vs 44% without [Dunlop & Tracy, newly sober AA members].
 
 | Redemption | Contamination |
 |------------|---------------|

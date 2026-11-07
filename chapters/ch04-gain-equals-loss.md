@@ -63,7 +63,7 @@ Not just money, but time, energy, relationships, opportunities foregone. What di
 What do you now have to maintain? Protect? Live up to? What can you now lose that you couldn't lose before?
 
 **What almost went wrong?**
-Shmuel Ellis's research found this is the most effective element of success review. What could have derailed this? What did you get away with?
+Shmuel Ellis's research found that reviewing successes, not just failures, improves learning. What could have derailed this? What did you get away with?
 
 Do this consistently and two things happen. When loss comes, it hurts less, you didn't build your identity on the outcome. And your odds of future success improve, you learned the actual reasons things worked, not the stories you told yourself.
 

@@ -16,7 +16,7 @@ It is believed that the Babylonians made the first New Year's resolutions about 
 
 ### "Quitter's Day"
 
-Unfortunately, most goals are quickly abandoned, the most famous being the lofty New Year's Eve resolutions. In 2019, Strava analysed over 800 million user-logged activities and found that New Year's resolutions typically last until January 19th (cleverly coined "Quitters Day"). The numbers get worse: Richard Wiseman's 2007 study of 3,000 participants found that 88% of those who set resolutions fail to achieve them, despite 52% being confident of success when they started. Outside of New Year's resolutions that often focus on habit changes, we often set specific goals throughout the year. This can be related to financial achievements such as savings goals or external validations such as social media metrics. No matter the type of goal, they all seem to be plagued by an underestimation of effort.
+Unfortunately, most goals are quickly abandoned, the most famous being the lofty New Year's Eve resolutions. Strava analysed over 800 million activities logged in 2019 and predicted that people were most likely to give up their 2020 fitness resolutions on January 19th (cleverly coined "Quitters Day"). The numbers get worse: Richard Wiseman's 2007 study of 3,000 participants found that 88% of those who set resolutions fail to achieve them, despite 52% being confident of success when they started. Outside of New Year's resolutions that often focus on habit changes, we often set specific goals throughout the year. This can be related to financial achievements such as savings goals or external validations such as social media metrics. No matter the type of goal, they all seem to be plagued by an underestimation of effort.
 
 
 ### Planning Fallacy
@@ -27,7 +27,7 @@ Memory Biases: We misremember how long tasks took in the past.
 Planning Simulations: When we think of the future, we often can only simulate a perfect world without setbacks.
 Uniqueness Bias: Bent Flyvbjerg's megaproject research identified the tendency to see one's own goals as unique.
 
-Bent Flyvbjerg illustrates these 3 points brilliantly by analysing over 16,000 large projects and found 91.5% go over budget, over schedule, or both. Fewer than 1% are completed on time, on budget, and deliver promised benefits.
+Bent Flyvbjerg illustrates these 3 points brilliantly by analysing over 16,000 large projects and finding 91.5% go over budget, over schedule, or both. Fewer than 1% are completed on time, on budget, and deliver promised benefits.
 
 Further examples of mega projects failing to achieve their goals:
 
@@ -42,7 +42,7 @@ Now, some would argue that being overly optimistic is a good thing, as it can ge
 
 Even if the timeline is correctly estimated, sticking with the wrong goals is challenging and can be dangerous. "Goal Contents Theory" describes the difference between intrinsic and extrinsic goals. Intrinsic goals include personal growth, meaningful relationships, community involvement, and physical health. Extrinsic goals include financial success, fame, and image/appearance.
 
-Knowing the negatives of extrinsic goals, why are we so often drawn to them? A meta-analysis by Tobin et al. found that being exposed to social media content showing a higher social status negatively affects the users' well-being and contributes to further feelings of depression. Social media users consistently set more extrinsic goals. This comparison also holds up in the real world, where being exposed to what others have can increase your desire to "keep up with the Joneses", an American saying describing the need to keep up with the neighbours when they buy a new car or go on a luxury holiday. The fundamental problem with extrinsic goals is that they fail to satisfy the psychological needs they are unconsciously meant to address:
+Knowing the negatives of extrinsic goals, why are we so often drawn to them? A meta-analysis by McComb et al. found that being exposed to social media content showing a higher social status negatively affects the users' well-being and contributes to further feelings of depression. Social media users consistently set more extrinsic goals. This comparison also holds up in the real world, where being exposed to what others have can increase your desire to "keep up with the Joneses", an American saying describing the need to keep up with the neighbours when they buy a new car or go on a luxury holiday. The fundamental problem with extrinsic goals is that they fail to satisfy the psychological needs they are unconsciously meant to address:
 
 Surface Goal: Wealth → Underlying Need: Security.
 Surface Goal: Fame → Underlying Need: Recognition that one matters.
@@ -138,7 +138,7 @@ Account for difficulty! If something is completely new to you or requires intens
 
 Now comes the really shitty part. Multiply your total effort estimate by 10. Yes, 10x. I know... fuck that. But unfortunately, this is your realistic baseline, not worst case, not pessimistic. This is what you should actually expect.
 
-Now ask yourself: If this goal takes 10x more effort than I thought, do I still want it? The results are often devastating, that "6-month side project" (50 hours) now becomes a 2-3 year endeavour (500 hours).
+Now ask yourself: If this goal takes 10x more effort than I thought, do I still want it? The results are often devastating, that "6-month side project" (50 hours) now becomes a 5-year endeavour (500 hours).
 
 If 10x kills all your motivation, there may be one of these problems:
 1. The desire isn't strong enough. Return to Step 2.

@@ -16,9 +16,9 @@ This goes deeper than it sounds. Before language, humans communicated through ge
 
 McAdams distinguishes between redemption sequences (narratives that move from bad to good, where suffering transforms into growth) and contamination sequences (good to bad, where positive experiences are spoiled). Adults with redemption narratives show significantly higher generativity (the drive to contribute to future generations) and wellbeing. The story you tell about your life literally shapes your psychological state.
 
-Jonathan Adler took this further. He tracked 47 adults writing personal narratives before psychotherapy and after every session, roughly 600 narratives total. His finding: "We found that the stories actually changed BEFORE people's psychological well-being changed. It was as though people were narrating a new version of their lives, and then a week or two later, their well-being would sort of catch up with the new story."
+Jonathan Adler took this further. He tracked 47 adults writing personal narratives before psychotherapy and after every session, roughly 600 narratives total. What changed first was agency, the sense of being in charge of your own life. In his words: "We found that the stories actually changed BEFORE people's psychological well-being changed. It was as though people were narrating a new version of their lives, and then a week or two later, their well-being would sort of catch up with the new story."
 
-The effect isn't subtle. In a study by Dunlop and Tracy, recovering alcoholics whose stories of their last drink contained redemption sequences stayed sober at 83%. Those without: 44%.
+The effect isn't subtle. In a study by Dunlop and Tracy of recently sober alcoholics, 83% of those whose stories of their last drink contained redemption sequences were still sober at follow-up. Those without: 44%.
 
 The story changes first. The psychology follows.
 

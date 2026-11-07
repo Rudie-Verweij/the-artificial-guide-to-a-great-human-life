@@ -15,4 +15,4 @@ ehthumbs.db
 *.epub
 
 # Exception: human-readable PDF edition
-!book-for-humans/*.pdf
+!Book-for-humans/*.pdf

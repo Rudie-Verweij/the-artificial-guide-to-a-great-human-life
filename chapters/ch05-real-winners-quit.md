@@ -51,7 +51,7 @@ I'd built a false choice in my head: either keep chasing scoreboards and suffer,
 
 Turns out I had misunderstood the teaching entirely.
 
-Buddhism doesn't teach elimination of all desire. It distinguishes between two types. **Taṇhā** is compulsive craving, the thirst that's never quenched. **Chanda** is wholesome aspiration, chosen motivation. The tradition treats taṇhā as the root of suffering, but considers chanda a foundation for genuine growth.
+Buddhism doesn't teach elimination of all desire. It distinguishes between two types. **Taṇhā** is compulsive craving, the thirst that's never quenched. **Chanda**, in its wholesome form, is aspiration, chosen motivation. The tradition treats taṇhā as the root of suffering, but considers chanda a foundation for genuine growth.
 
 The difference is where the desire points. A Thai Forest teacher put it simply: taṇhā wants to *get*. Chanda wants to *do*.
 

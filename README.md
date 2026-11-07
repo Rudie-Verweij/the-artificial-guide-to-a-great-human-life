@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg?v=2" width="100%">
+  <img src="assets/hero.svg?v=3" width="100%">
 </p>
 
 <p align="center">
@@ -77,10 +77,10 @@ Print recommendation: A5 hardcover, 160gsm uncoated paper (writable with pen), d
 ## Core Concepts
 
 - **Directional Narratives** — Replace fixed goals with ongoing stories that have direction but no finish line
-- **Narrative Seeds** — Small, low-commitment experiments planted to discover what grows
+- **Narrative Seeds** — Directional statements about who you're becoming: "I am becoming someone who..."
 - **Five Pillars** — Sleep, Motion, Intake, Connection, Creation — the non-negotiable foundation
-- **Effortless Goals** — Goals that emerge naturally when the pillars are solid
-- **Reality Multiplier** — The compounding effect of getting honest about where you actually are
+- **Effortless Goals** — A five-step filter that finds the real desire under a goal and tests it against reality
+- **Reality Multiplier** — Multiply your effort estimate by 10; that's the realistic baseline
 - **me.md** — A comprehensive self-profile that gives AI real context about who you are
 
 <p align="center">

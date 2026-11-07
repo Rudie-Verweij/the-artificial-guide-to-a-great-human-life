@@ -13,7 +13,7 @@ The previous six chapters did something specific. They walked you through a proc
 
 ### The Sections
 
-The document has eight sections. Seven core, one optional. If this feels like a lot, relax. You've already done most of the work. Each section draws directly from a chapter you've already read. You're not starting from scratch. You're organizing what you've found.
+The document has seven sections. Six core, one optional. If this feels like a lot, relax. You've already done most of the work. Each section draws directly from a chapter you've already read. You're not starting from scratch. You're organizing what you've found.
 
 ```
   $ tree ~/me.md
@@ -24,7 +24,7 @@ The document has eight sections. Seven core, one optional. If this feels like a 
   │   Context that shaped who you are.
   │
   ├── My Foundation
-  │   Core values, non-negotiables.
+  │   Your Five Pillars, the non-negotiables.
   │
   ├── Where I Am Going
   │   Directional narratives, not goals.
@@ -54,7 +54,7 @@ Examine the current state of the Five Pillars. What's working. What keeps collap
 
 **Section 3: Where I Am Going**
 
-This is your Chapter Three and Five material. The goals that survived the Effortless Goals filter, if any did. The core desires you found when you kept asking "why?" or the directional seeds you created. Your pillar seeds, Your life domain seeds. "I am becoming someone who..." for each area that matters to you.
+This is your Chapter Three and Five material. The goals that survived the Effortless Goals filter, if any did. The core desires you found when you kept asking "why?" or the directional seeds you created. Your pillar seeds, your life domain seeds. "I am becoming someone who..." for each area that matters to you.
 
 **Section 4: My Relationship with Gain and Loss**
 
@@ -74,11 +74,11 @@ This section shapes every future conversation. Without it, you get the default. 
 If you go on to Chapter Eight and construct your Kishōtenketsu narrative, it goes here. The document is complete without it. The story adds depth for those who want it: the feeling behind the facts, the arc that connects the dots.
 
 
-**Section 7: Revision log**
+**Section 7: Revision Log**
 
-Keep a revision log not because anyone's checking, but because the changes themselves tell a story. "March 2027- updated Section 5, old seed no longer resonates, replaced with one that reflects where I actually am." "June - rewrote Section 3 after processing shutting down the company." The log becomes a record of your own evolution, visible over time.
+Keep a revision log not because anyone's checking, but because the changes themselves tell a story. "March 2027- updated Section 3, old seed no longer resonates, replaced with one that reflects where I actually am." "June - rewrote Section 1 after processing shutting down the company." The log becomes a record of your own evolution, visible over time.
 
-I'll be honest, most people won't maintain Me.md. Most people will write a version, feel satisfied, and let it gather dust. And that's okay. Even a single honest version, written once, is more self-knowledge than most people ever organize. It will still serve you when you paste it into a conversation two years from now. It just won't serve you as well as one you've kept current.
+I'll be honest, most people won't maintain their me.md. Most people will write a version, feel satisfied, and let it gather dust. And that's okay. Even a single honest version, written once, is more self-knowledge than most people ever organize. It will still serve you when you paste it into a conversation two years from now. It just won't serve you as well as one you've kept current.
 
 
 ### How to Build It
@@ -98,7 +98,7 @@ Be aware that when you use a cloud AI service, your conversation is sent to serv
 
 It's worth noting how these models were built in the first place. Most large language models were trained on enormous amounts of data scraped from the internet, much of it without the consent of the people who created it. It's documented, litigated, and ongoing, showing that they are more than willing to steal.
 
-That said, let's be honest with ourselves... Most of us pour deeply personal information into email services, messaging apps, and social media without a second thought. People confess secrets over Snapchat and send medical details through unencrypted email boxes with 12345 as there password. The document you've built deserves more care than that, but the point isn't to be more paranoid about AI than you are about everything else.
+That said, let's be honest with ourselves... Most of us pour deeply personal information into email services, messaging apps, and social media without a second thought. People confess secrets over Snapchat and send medical details through unencrypted email boxes with 12345 as their password. The document you've built deserves more care than that, but the point isn't to be more paranoid about AI than you are about everything else.
 
 There is an alternative. Local AI models run entirely on your own machine. Nothing leaves your computer. No servers, no storage policies, no training data contributions, no third-party access. The technology is moving fast. Models that run on a powerful laptop are already capable enough to work with your document in meaningful ways, and they're improving rapidly.
 

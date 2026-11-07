@@ -24,7 +24,7 @@
   <text x="32" y="72" class="mono" font-size="16" font-weight="600" fill="#F0F0F0">THE ARTIFICIAL GUIDE TO A GREAT HUMAN LIFE</text>
 
   <!-- Version + Author -->
-  <text x="32" y="100" class="mono" font-size="12" fill="#666666">v1.0.0-alpha | February 2026</text>
+  <text x="32" y="100" class="mono" font-size="12" fill="#666666">v1.0.1-alpha | February 2026</text>
   <text x="32" y="118" class="mono" font-size="12" fill="#666666">Rudie Nolasco Verweij</text>
 
   <!-- Separator -->

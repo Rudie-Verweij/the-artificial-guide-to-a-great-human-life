@@ -48,10 +48,6 @@ ME.MD - [Your Name] - [Date]
    - [Domain]: "I am becoming someone who..."
    - [Add as many as meaningful]
 
-   DOMINANT STORY (brief): What story have I been telling myself?
-   UNIQUE OUTCOMES: What moments contradicted that story?
-   ALTERNATIVE NARRATIVE: What's the other story that was always there?
-
 ═══════════════════════════════════════════════════════════════
 
 4. MY RELATIONSHIP WITH GAIN AND LOSS
@@ -80,8 +76,12 @@ ME.MD - [Your Name] - [Date]
 6. MY STORY (OPTIONAL - from Chapter 8)
    If you completed the Kishōtenketsu narrative construction, paste it here.
 
+   DOMINANT STORY (brief): What story have I been telling myself?
+   UNIQUE OUTCOMES: What moments contradicted that story?
+   ALTERNATIVE NARRATIVE: What's the other story that was always there?
+
 ═══════════════════════════════════════════════════════════════
 
-REVISION LOG
+7. REVISION LOG
 - [Date]: Initial version
 - [Date]: [What changed and why]

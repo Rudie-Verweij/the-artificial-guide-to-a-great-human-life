@@ -31,7 +31,7 @@
 ## Core Thesis
 
 **Problem:**
-Humans pursue inherited goals via compulsive craving (tanha), underestimate effort 10x, fuse identity with outcomes. Gain teaches nothing, loss destroys. Eliminating all desire creates a different trap: paralysis (the Vacuum Problem).
+Humans pursue inherited goals via compulsive craving (tanha), underestimate effort (guide's rule: ×10), fuse identity with outcomes. Gain teaches nothing, loss destroys. Eliminating all desire creates a different trap: paralysis (the Vacuum Problem).
 
 **Solution:**
 Replace goals with directional seeds ("I am becoming someone who..."). Seeds express chanda (wholesome aspiration) not tanha (compulsive craving). Build a stable foundation (FP). Compile everything into the **me.md** (MD): a comprehensive self-profile that gives any AI full context to understand you. Optionally, weave seeds into a Kishōtenketsu narrative (Ch 8) for those who want the depth of story. Each action either aligns with your seeds or doesn't. No finish line. No failure mode.
