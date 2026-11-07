@@ -14,7 +14,7 @@
 | ≠ | distinction / not same as |
 | ∴ | therefore |
 
-**Abbreviations:** MD = me.md (primary deliverable), EG = Effortless Goals, FP = Five Pillars, NS = Narrative Seeds, PAA = Post-Achievement Audit, RM = Reality Multiplier, KT = Kishōtenketsu (optional story structure)
+**Abbreviations:** MD = me.md (primary deliverable), EG = Effortless Goals, FP = Five Pillars, NS = Narrative Seeds, PAA = Post-Achievement Audit, RM = Reality Multiplier
 
 ---
 
@@ -34,9 +34,9 @@
 Humans pursue inherited goals via compulsive craving (tanha), underestimate effort (guide's rule: ×10), fuse identity with outcomes. Gain teaches nothing, loss destroys. Eliminating all desire creates a different trap: paralysis (the Vacuum Problem).
 
 **Solution:**
-Replace goals with directional seeds ("I am becoming someone who..."). Seeds express chanda (wholesome aspiration) not tanha (compulsive craving). Build a stable foundation (FP). Compile everything into the **me.md** (MD): a comprehensive self-profile that gives any AI full context to understand you. Optionally, weave seeds into a Kishōtenketsu narrative (Ch 8) for those who want the depth of story. Each action either aligns with your seeds or doesn't. No finish line. No failure mode.
+Replace goals with directional seeds ("I am becoming someone who..."). Seeds express chanda (wholesome aspiration) not tanha (compulsive craving). Build a stable foundation (FP). Compile everything into the **me.md** (MD): a comprehensive self-profile that gives any AI full context to understand you. Each action either aligns with your seeds or doesn't. No finish line. No failure mode.
 
-**The me.md is the book's culminating deliverable.** Seeds are the mechanism. The story is optional depth.
+**The me.md is the book's culminating deliverable.** Seeds are the mechanism.
 
 ---
 
@@ -70,21 +70,15 @@ Replace goals with directional seeds ("I am becoming someone who..."). Seeds exp
 - Professional help is valid at any stage
 
 ### 6. Compile me.md (Ch 7)
-- Organize all chapter work into 7 sections
+- Organize all chapter work into 6 sections
 - Start where friction is lowest (usually Section 3: seeds)
 - Honest over polished; gaps better than filler
 - Understand privacy: cloud vs local AI tradeoffs
 - Token cost: don't always use full document; share relevant sections
 
-### 7. Optional: Build Story (Ch 8)
-- Only after me.md is done or done enough
-- Kishōtenketsu structure: Ki → Sho → Ten → Ketsu
-- Build backwards: dump → seeds (already planted) → Ten → Ketsu → reconstruct Ki/Sho
-- Story goes into me.md Section 6
-
-### 8. Maintain
+### 7. Maintain
 - Periodic PAA after gains
-- Revisit me.md as life evolves (Section 7: Revision Log)
+- Revisit me.md as life evolves (Section 6: Revision Log)
 - Revisit seeds as life evolves
 - Setbacks become story material, not failure proof
 - Share with therapist/coach for a head start on understanding you
@@ -101,5 +95,4 @@ Replace goals with directional seeds ("I am becoming someone who..."). Seeds exp
 ### Watch for:
 - **Rumination disguised as reflection:** cycling same thoughts, no insight, hot/churning feeling
 - **Premature positivity:** forcing redemption before processing pain → shame spiral
-- **Difficult material surfacing:** dump exercise may uncover trauma
 - **Token flooding:** sharing full me.md when only sections are relevant degrades AI output quality

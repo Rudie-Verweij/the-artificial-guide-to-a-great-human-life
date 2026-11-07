@@ -152,7 +152,7 @@ Start with step 0 now.
 ```
 I want you to help me build a document called "me.md" — a comprehensive self-profile that captures who I am. The purpose: I can paste this (or relevant sections) into any AI conversation and get responses grounded in MY patterns, MY direction, and MY preferences — instead of generic advice.
 
-The document has 7 sections:
+The document has 6 sections:
 
 1. **Where I Came From** — Background, formative experiences, patterns I recognize, current situation. Not a resume. The real version.
 
@@ -164,9 +164,7 @@ The document has 7 sections:
 
 5. **What I Need From AI** — Communication style preferences. What to push back on. What NOT to do. Where I want help. Decision-making principles. Be specific: "When I'm catastrophizing, call it out directly" is better than "don't be too positive."
 
-6. **My Story (optional)** — A narrative arc if I choose to build one. The document is complete without this.
-
-7. **Revision Log** — Date, what changed, why. The changes over time tell their own story.
+6. **Revision Log** — Date, what changed, why. The changes over time tell their own story.
 
 Guide me through this section by section. Some guidelines:
 - Start with whichever section feels most natural (usually Section 3 — seeds/direction)
@@ -206,43 +204,6 @@ Also check: am I actually reflecting here, or am I ruminating? Reflection feels 
 
 ---
 
-## Story Construction (Optional)
-
-```
-I want to build a personal narrative using a structure called Kishōtenketsu — a four-part East Asian narrative form that doesn't require conflict as the organizing principle.
-
-The four parts:
-- **Ki (Introduction):** Establishes context and tone. My world, however it was.
-- **Shō (Development):** Life unfolding. The texture of experience before the shift.
-- **Ten (The Twist):** A perspective shift that recontextualizes everything. Not a crisis — an insight. The heart of the structure.
-- **Ketsu (Reconciliation):** Where my direction points. Open-ended. Life continues.
-
-Important: We build it BACKWARDS (because you can't write your past properly until you know what it's leading to — narratives filter memory).
-
-Walk me through these steps one at a time:
-
-**Step 1: Dump** — Ask me to write my story as I currently tell it to myself. Raw, unedited, the dominant narrative. It might be darker or more scattered than expected. That's fine — I need to see what I've been working with.
-
-**Step 2: Seeds** — I should already have directional "I am becoming someone who..." statements. Ask me to share them. If I don't have them, help me create some first (for health, relationships, work, and any other domains that matter).
-
-**Step 3: Ten (the twist)** — Ask me to write about: What's been happening recently that brought me here? Crises, realizations, things shifting? What am I doing to stabilize? And this moment — doing this work — is part of the shift.
-
-**Step 4: Ketsu** — Ask me: Where do your seeds point? Not what you'll achieve — who you're becoming. What does life look like living aligned with those directions? Keep it open-ended.
-
-**Step 5: Reconstruct Ki & Shō** — Now go back to my dump with fresh eyes. Help me find "unique outcomes" — moments that contradict the dominant story. Times I wasn't anxious, did follow through, the pattern broke. Connect them across time to surface an alternative narrative. Ask me to name that pattern.
-
-**Synthesis** — Help me weave all of this into a coherent Kishōtenketsu narrative. Draft something from my materials for me to edit. It should feel like MY story.
-
-Safety notes:
-- If the dump surfaces difficult material and I feel overwhelmed, we pause.
-- Don't force redemption before I've processed difficulty (that creates shame spirals).
-- If I'm cycling the same thoughts without new insights, that's rumination — tell me to stop and go walk.
-
-Start with Step 1.
-```
-
----
-
 ## Framework Explanation
 
 ```
@@ -256,10 +217,9 @@ The alternative:
 1. **Filter goals** using Effortless Goals (5-step method: surface goal → radical self-honesty to find core desire → create aligned goal → minimize → multiply timeline by 10)
 2. **Plant seeds** — directional statements ("I am becoming someone who...") that express aspiration rather than craving. Seeds can't fail the way goals can.
 3. **Build a foundation** — Five Pillars (sleep, motion, intake, connection, creation) that feed each other like a flywheel
-4. **Compile a me.md** — a 7-section self-profile that gives any AI full context to actually help you: background, foundation, direction/seeds, relationship with gain/loss, AI preferences, optional story, revision log
-5. **Optionally**, weave seeds into a Kishōtenketsu narrative for those who want the depth of story
+4. **Compile a me.md** — a 6-section self-profile that gives any AI full context to actually help you: background, foundation, direction/seeds, relationship with gain/loss, AI preferences, revision log
 
-The me.md is the main deliverable. Seeds are the mechanism. The story is optional depth.
+The me.md is the main deliverable. Seeds are the mechanism.
 
 Professional help (therapist, coach, doctor) is valid at any stage — not defeat, but willingness to fight.
 
