@@ -16,3 +16,6 @@ ehthumbs.db
 
 # Exception: human-readable PDF edition
 !Book-for-humans/*.pdf
+
+# PDF build intermediates
+build/out/

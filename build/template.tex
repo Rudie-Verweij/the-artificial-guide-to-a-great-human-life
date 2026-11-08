@@ -1,0 +1,161 @@
+% Pandoc LaTeX template for both PDF editions. Rendered by build.sh with
+% Tectonic (XeTeX). Variables: title, author, version, date, copyright-year,
+% edition (reading|workbook), workbook (bool).
+\documentclass[11pt,twoside,$if(workbook)$openright$else$openany$endif$]{book}
+
+% ---------------------------------------------------------------- page
+\usepackage[a5paper,margin=2cm,headheight=14pt,headsep=18pt,footskip=30pt]{geometry}
+$if(workbook)$
+% Workbook: A5 trim on a 154 x 216 mm sheet (3 mm bleed) with crop marks.
+\usepackage[cam,center,noinfo,width=154mm,height=216mm]{crop}
+$endif$
+
+% ---------------------------------------------------------------- fonts
+% Free metric-compatible stand-ins for the Mac fonts of the first build:
+% Palatino -> TeX Gyre Pagella, Helvetica -> TeX Gyre Heros,
+% Menlo + Apple Symbols -> DejaVu Sans Mono (has the box-drawing glyphs).
+\usepackage{fontspec}
+\defaultfontfeatures{Ligatures=TeX}
+\setmainfont{texgyrepagella}[Extension=.otf,
+  UprightFont=*-regular, BoldFont=*-bold,
+  ItalicFont=*-italic, BoldItalicFont=*-bolditalic]
+\setsansfont{texgyreheros}[Extension=.otf,
+  UprightFont=*-regular, BoldFont=*-bold,
+  ItalicFont=*-italic, BoldItalicFont=*-bolditalic]
+\setmonofont{DejaVuSansMono}[Extension=.ttf, Scale=MatchLowercase,
+  BoldFont=*-Bold, ItalicFont=*-Oblique, BoldItalicFont=*-BoldOblique]
+
+% ---------------------------------------------------------------- misc
+\usepackage{microtype}
+\setlength{\emergencystretch}{2em}
+\usepackage{xcolor}
+\usepackage{needspace}
+\usepackage[skip=5.5pt plus 1pt]{parskip}
+\raggedbottom
+\usepackage{fancyvrb}
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen}
+\setcounter{tocdepth}{1}
+\renewcommand{\contentsname}{Contents}
+
+% ---------------------------------------------------------------- headings
+\usepackage{titlesec}
+\titleformat{\chapter}[block]
+  {\centering\fontsize{24.88pt}{37.3pt}\selectfont\bfseries}{}{0pt}{}
+\titlespacing*{\chapter}{0pt}{-40pt}{17pt}
+
+% ---------------------------------------------------------------- headers
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE]{\itshape\nouppercase{\leftmark}}
+\fancyhead[RO]{\itshape\nouppercase{\rightmark}}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\fancypagestyle{plain}{%
+  \fancyhf{}\fancyfoot[C]{\thepage}\renewcommand{\headrulewidth}{0pt}}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{#1}}
+\renewcommand{\sectionmark}[1]{\markright{#1}}
+% Pages left blank to start a chapter on a right-hand page carry no header.
+\makeatletter
+\renewcommand{\cleardoublepage}{\clearpage\if@twoside
+  \ifodd\c@page\else\hbox{}\thispagestyle{empty}\newpage\fi\fi}
+\makeatother
+
+$if(workbook)$
+% ---------------------------------------------------------------- workbook
+\definecolor{wbline}{gray}{0.72}
+\newlength{\wbgap}\setlength{\wbgap}{42pt}
+% One grey writing line.
+\newcommand{\wbrule}{\hbox to\linewidth{\color{wbline}\leaders\hrule\hfill}}
+% #1 writing lines.
+\newcommand{\wblines}[1]{\par\nointerlineskip
+  \wbcount=#1\relax
+  \loop\ifnum\wbcount>0
+    \vbox to\wbgap{\vfil\wbrule}\advance\wbcount by -1\relax
+  \repeat\par}
+\newcount\wbcount
+% Fill the rest of the page with writing lines, then start a new page.
+\newcommand{\wbfill}{\par\nointerlineskip
+  \leaders\vbox to\wbgap{\vfil\wbrule}\vfill\clearpage}
+% A full extra page of writing lines.
+\newcommand{\wbpage}{\null\wbfill}
+% Label followed by a writing line ("Hours per week: ______").
+\newcommand{\wbfield}[1]{\par\vspace{\dimexpr38pt-\baselineskip-\parskip}%
+  \noindent#1\ {\color{wbline}\leaders\hrule\hfill}\par}
+\newcommand{\wbstep}[1]{\par\needspace{8\baselineskip}\vspace{1.2em}%
+  {\sffamily\bfseries #1\par}\vspace{.4em}}
+\newcommand{\wbprompt}[1]{\par\needspace{\dimexpr3\baselineskip+2\wbgap}%
+  \medskip{\itshape #1\par}}
+\newcommand{\wbchoices}[1]{\par{\itshape #1\par}}
+\newenvironment{workingsection}[2]{%
+  \clearpage
+  \markboth{\textsf{Working Section: #1}}{\textsf{Working Section: #1}}%
+  \begin{center}
+    {\sffamily\bfseries\large Working Section\par}
+    {\sffamily #2\par}
+    \vspace{.6em}{\color{wbline}\rule{.35\linewidth}{.4pt}}
+  \end{center}
+  \vspace{1em}}
+  {\clearpage}
+% Personal Notes: a title page, then #1 pages of lines.
+\newcommand{\personalnotes}[1]{%
+  \cleardoublepage
+  \markboth{Personal Notes}{Personal Notes}%
+  \thispagestyle{empty}
+  \null\vfill
+  \begin{center}\fontsize{17.28pt}{22pt}\selectfont\bfseries Personal Notes\end{center}
+  \vfill\clearpage
+  \wbcount=#1\relax
+  \loop\ifnum\wbcount>0 \wbpage\advance\wbcount by -1\relax\repeat}
+$endif$
+
+\usepackage[hidelinks,bookmarksnumbered=false]{hyperref}
+\urlstyle{same}
+\hypersetup{
+  pdftitle={$title$},
+  pdfauthor={$author$},
+  pdfsubject={$edition$ Edition, $version$},
+  pdfcreator={LaTeX via pandoc},
+  pdfkeywords={CC BY-NC-SA 4.0}}
+
+\begin{document}
+\frontmatter
+
+% ---------------------------------------------------------------- cover (i)
+\thispagestyle{empty}
+\null\vfill
+\begin{center}
+  {\fontsize{24.88pt}{37.3pt}\selectfont\bfseries
+   \parbox{125pt}{\centering $title$}\par}
+  \vspace{24pt}
+  {\Large $author$\par}
+  \vspace{12pt}
+  {\large $date$\par}
+\end{center}
+\vfill\vfill
+\clearpage
+
+% ---------------------------------------------------------------- licence (ii)
+\thispagestyle{empty}
+\null\vfill
+{\small\raggedright
+\textit{$title$}\\
+$if(workbook)$Workbook Edition$else$Reading Edition$endif$, $version$, $date$\par
+\medskip
+Copyright \textcopyright\ $copyright-year$ $author$\par
+\medskip
+This work is licensed under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License
+(CC BY-NC-SA 4.0). To view a copy of this license, visit
+\url{https://creativecommons.org/licenses/by-nc-sa/4.0/}\par}
+\clearpage
+
+% ---------------------------------------------------------------- contents
+\tableofcontents
+
+\mainmatter
+$body$
+
+\end{document}
