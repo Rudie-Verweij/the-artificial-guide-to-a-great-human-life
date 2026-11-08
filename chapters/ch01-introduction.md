@@ -1,6 +1,6 @@
 # The Artificial Guide to a Great Human Life
 ## By Rudie Nolasco Verweij
-## v1.0.1-alpha | February 2026
+## v1.1.0-alpha | November 2026
 
 ---
 

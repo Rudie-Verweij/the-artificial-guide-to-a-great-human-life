@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/hero.svg?v=3" width="100%">
+  <img src="assets/hero.svg?v=4" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-v1.0.1--alpha-F0F0F0?style=flat-square&labelColor=111111&color=555555" alt="Version">
+  <img src="https://img.shields.io/badge/version-v1.1.0--alpha-F0F0F0?style=flat-square&labelColor=111111&color=555555" alt="Version">
   <img src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-F0F0F0?style=flat-square&labelColor=111111&color=555555" alt="License">
   <img src="https://img.shields.io/badge/chapters-8-F0F0F0?style=flat-square&labelColor=111111&color=555555" alt="Chapters">
 </p>
