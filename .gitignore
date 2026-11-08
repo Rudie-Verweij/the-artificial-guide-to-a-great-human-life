@@ -19,3 +19,9 @@ ehthumbs.db
 
 # PDF build intermediates
 build/out/
+
+# Audiobook audio and TTS cache (no audio in git)
+audiobook/out/
+audiobook/samples/
+audiobook/.cache/
+__pycache__/
