@@ -12,7 +12,7 @@ I used to assume the world was stable, like an astronaut letting go of a pen in 
 
 After a decade of startup rollercoasters, I found myself looking inwards to my own state of affairs, and I can tell you it was not pretty. Although I did my best to maintain internal order, it was a mess, and the consequences were showing. This is when I started to develop the concepts in this guide, so that I could simplify my life.
 
-So long story short, your life is a pocket of order, created at birth and collapsed at death. Complexity goes in, disorder comes out, and the magic happens in the middle. Left unattended, it drifts towards chaos. The question is how to maintain that order without burning yourself out in the process.
+So long story short, your life is a pocket of order, created at birth and collapsed at death. Complexity goes in and disorder comes out. Left unattended, it drifts towards chaos. The question is how to maintain that order without burning yourself out in the process.
 
 
 ### What the hell does the title mean?
