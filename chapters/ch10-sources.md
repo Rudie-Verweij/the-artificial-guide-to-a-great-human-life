@@ -1,4 +1,4 @@
-## Sources & Further Reading {.unnumbered .unlisted}
+## Sources & Further Reading {.unnumbered}
 
 ```{=latex}
 \markboth{Sources \& Further Reading}{Sources \& Further Reading}

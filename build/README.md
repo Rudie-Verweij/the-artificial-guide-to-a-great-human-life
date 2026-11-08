@@ -6,9 +6,12 @@
 - `The Artificial Guide - Workbook Edition.pdf` (A5 on a 154 × 216 mm sheet
   with crop marks, plus the working sections in `workbook/` and Personal Notes)
 
-The version and date on the title and licence pages come from line 3 of
-`chapters/ch01-introduction.md` (`## v1.0.1-alpha | February 2026`). Bump
-them there.
+The date on the cover and the version and date on the licence page come from
+line 3 of `chapters/ch01-introduction.md` (`## v1.0.1-alpha | February 2026`).
+Bump them there.
+
+The PDFs take their timestamp from the last commit that touched `chapters/`,
+so commit manuscript changes first, then rebuild and commit the PDFs.
 
 ## Tools
 
