@@ -42,10 +42,10 @@ Even if the timeline is correctly estimated, sticking with the wrong goals is ch
 
 Knowing the negatives of extrinsic goals, why are we so often drawn to them? A meta-analysis by McComb et al. found that being exposed to social media content showing a higher social status negatively affects the users' well-being and contributes to further feelings of depression. Social media users consistently set more extrinsic goals. The same comparison happens offline, where seeing what others have can increase your desire to "keep up with the Joneses", an American saying for the need to match the neighbours when they buy a new car or go on a luxury holiday. The fundamental problem with extrinsic goals is that they fail to satisfy the psychological needs they are unconsciously meant to address:
 
-Surface Goal: Wealth → Underlying Need: Security.
-Surface Goal: Fame → Underlying Need: Recognition that one matters.
-Surface Goal: The Perfect Image → Underlying Need: Self-acceptance.
-Surface Goal: Status Symbols → Underlying Need: Being recognised as a competent person.
+- Surface Goal: Wealth → Underlying Need: Security.
+- Surface Goal: Fame → Underlying Need: Recognition that one matters.
+- Surface Goal: The Perfect Image → Underlying Need: Self-acceptance.
+- Surface Goal: Status Symbols → Underlying Need: Being recognised as a competent person.
 
 
 ### The rat race offers no cheese at the finish line
