@@ -1,0 +1,27 @@
+{
+  "book_title": "The Artificial Guide to a Great Human Life",
+  "author": "Rudie Nolasco Verweij",
+  "api_base": "https://api.elevenlabs.io",
+  "voice_id": "6sFKzaJr574YWVu4UuJF",
+  "voice_name": "Cornelius",
+  "model_id": "eleven_v4",
+  "output_format": "pcm_44100",
+  "voice_settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "speed": 1.14
+  },
+  "max_chunk_chars": 3500,
+  "request_stitching": true,
+  "pauses": {
+    "title": "1.5s",
+    "heading": "1.0s"
+  },
+  "credits_per_char": 1.0,
+  "mp3_bitrate": "192k",
+  "m4b_bitrate": "128k",
+  "chapter_titles": {
+    "00-opening": "Opening",
+    "07-me-md": "Chapter Seven: me.md"
+  }
+}

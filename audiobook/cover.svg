@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3000 3000" width="3000" height="3000">
+  <defs>
+    <style>
+      .mono { font-family: 'JetBrainsMono Nerd Font', 'DejaVu Sans Mono', 'Menlo', monospace; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="3000" height="3000" fill="#0a0a0a"/>
+
+  <!-- Terminal window -->
+  <rect x="150" y="150" width="2700" height="2700" rx="40" ry="40" fill="#111111" stroke="#555555" stroke-width="5"/>
+
+  <!-- Title bar -->
+  <rect x="150" y="150" width="2700" height="130" rx="40" ry="40" fill="#1a1a1a"/>
+  <rect x="150" y="230" width="2700" height="50" fill="#1a1a1a"/>
+  <circle cx="250" cy="215" r="24" fill="#ff5f57"/>
+  <circle cx="330" cy="215" r="24" fill="#febc2e"/>
+  <circle cx="410" cy="215" r="24" fill="#28c840"/>
+  <text x="1500" y="232" text-anchor="middle" class="mono" font-size="44" fill="#666666">artificial-guide — audiobook</text>
+
+  <!-- Command -->
+  <text x="300" y="520" class="mono" font-size="80" fill="#666666">$ play ./life.md</text>
+
+  <!-- Title -->
+  <g class="mono" font-size="250" font-weight="700" fill="#F0F0F0">
+    <text x="300" y="950">THE</text>
+    <text x="300" y="1240">ARTIFICIAL</text>
+    <text x="300" y="1530">GUIDE TO A</text>
+    <text x="300" y="1820">GREAT HUMAN</text>
+    <text x="300" y="2110">LIFE<tspan fill="#F0F0F0" opacity="0.8">_</tspan></text>
+  </g>
+
+  <!-- Separator -->
+  <line x1="300" y1="2330" x2="2700" y2="2330" stroke="#333333" stroke-width="5"/>
+
+  <!-- Author + edition -->
+  <text x="300" y="2500" class="mono" font-size="96" fill="#F0F0F0">Rudie Nolasco Verweij</text>
+  <text x="300" y="2640" class="mono" font-size="64" fill="#666666">Audiobook edition | v1.1.0-alpha | November 2026</text>
+</svg>

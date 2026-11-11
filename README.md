@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="assets/hero.svg?v=2" width="100%">
+  <img src="assets/hero.svg?v=4" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-v1.0.1--alpha-F0F0F0?style=flat-square&labelColor=111111&color=555555" alt="Version">
+  <img src="https://img.shields.io/badge/version-v1.1.0--alpha-F0F0F0?style=flat-square&labelColor=111111&color=555555" alt="Version">
   <img src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-F0F0F0?style=flat-square&labelColor=111111&color=555555" alt="License">
-  <img src="https://img.shields.io/badge/chapters-9-F0F0F0?style=flat-square&labelColor=111111&color=555555" alt="Chapters">
+  <img src="https://img.shields.io/badge/chapters-8-F0F0F0?style=flat-square&labelColor=111111&color=555555" alt="Chapters">
 </p>
 
 ---
@@ -34,8 +34,7 @@ $ cat ./chapters.md
 # 05  Real Winners Quit
 # 06  The Five Pillars
 # 07  me.md
-# 08  From Seeds to Story
-# 09  The Story Continues
+# 08  The Story Continues
 ```
 
 | # | Chapter | What It Covers |
@@ -47,10 +46,9 @@ $ cat ./chapters.md
 | 05 | [Real Winners Quit](chapters/ch05-real-winners-quit.md) | Strategic quitting and narrative seeds |
 | 06 | [The Five Pillars](chapters/ch06-the-five-pillars.md) | The foundation: five areas that hold your life together |
 | 07 | [me.md](chapters/ch07-me-md.md) | The culmination — building your personal AI context document |
-| 08 | [From Seeds to Story](chapters/ch08-from-seeds-to-story.md) | Optional: narrative identity and story construction |
-| 09 | [The Story Continues](chapters/ch09-the-story-continues.md) | Closing thoughts |
-| | [Acknowledgements](chapters/ch10-acknowledgements.md) | |
-| | [Sources & Further Reading](chapters/ch11-sources.md) | |
+| 08 | [The Story Continues](chapters/ch08-the-story-continues.md) | Closing thoughts |
+| | [Acknowledgements](chapters/ch09-acknowledgements.md) | |
+| | [Sources & Further Reading](chapters/ch10-sources.md) | |
 
 ## The me.md
 
@@ -77,10 +75,10 @@ Print recommendation: A5 hardcover, 160gsm uncoated paper (writable with pen), d
 ## Core Concepts
 
 - **Directional Narratives** — Replace fixed goals with ongoing stories that have direction but no finish line
-- **Narrative Seeds** — Small, low-commitment experiments planted to discover what grows
+- **Narrative Seeds** — Directional statements about who you're becoming: "I am becoming someone who..."
 - **Five Pillars** — Sleep, Motion, Intake, Connection, Creation — the non-negotiable foundation
-- **Effortless Goals** — Goals that emerge naturally when the pillars are solid
-- **Reality Multiplier** — The compounding effect of getting honest about where you actually are
+- **Effortless Goals** — A five-step filter that finds the real desire under a goal and tests it against reality
+- **Reality Multiplier** — Multiply your effort estimate by 10; that's the realistic baseline
 - **me.md** — A comprehensive self-profile that gives AI real context about who you are
 
 <p align="center">

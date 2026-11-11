@@ -12,7 +12,7 @@
 | ≠ | distinction / not same as |
 | ∴ | therefore |
 
-**Abbreviations:** MD = me.md, EG = Effortless Goals, FP = Five Pillars, NS = Narrative Seeds, PAA = Post-Achievement Audit, RM = Reality Multiplier, KT = Kishōtenketsu (optional story structure)
+**Abbreviations:** MD = me.md, EG = Effortless Goals, FP = Five Pillars, NS = Narrative Seeds, PAA = Post-Achievement Audit, RM = Reality Multiplier
 
 ---
 
@@ -71,7 +71,7 @@ Find smallest version that still satisfies the desire. Must be achievable with O
 2. **Multiply total by 10** (not worst case—realistic baseline)
 3. Ask: "Do I still want this at 10× effort?"
 
-**Example:** "6-month side project" (50 hrs) → 500 hrs = 2-3 years
+**Example:** "6-month side project" (50 hrs) → 500 hrs = ~5 years (at 2 hrs/week)
 
 | If motivation killed | Action |
 |---------------------|--------|
@@ -87,7 +87,7 @@ Notes: Some goals have natural pacing limits. Ramp up slowly—sustainable effor
 
 **Arrival fallacy:** Achieving goal ≠ lasting happiness. Post-Olympic depression common. Constant desire as motivation → goal achieved → void.
 
-**Quitters Day** [Strava, 800M users]: Resolutions abandoned by Jan 19. 77% maintained 1 week, 19% at 2 years [Norcross]. 88% fail despite 52% confidence [Wiseman, 3,000 participants].
+**Quitters Day** [Strava, 800M activities logged in 2019]: Jan 19 predicted as the day 2020 fitness resolutions were most likely abandoned. 77% maintained 1 week, 19% at 2 years [Norcross]. 88% fail despite 52% confidence [Wiseman, 3,000 participants].
 
 | Intrinsic Goals | Extrinsic Goals |
 |----------------|-----------------|
@@ -129,7 +129,7 @@ After success, brain decides nothing to examine. Goal-related info actively inhi
 
 - Short-term regret: actions dominate. Long-term regret: inactions dominate (72%) [Gilovich]
 - #1 palliative regret: "Wish I had courage to live true to myself" [Ware]
-- Moderate adversity → better mental health than high OR zero adversity [Seery, 2,400 people, 10yr]
+- Moderate adversity → better mental health than high OR zero adversity [Seery, 2,400 people, 2001-2004]
 
 ### Post-Achievement Audit (PAA)
 
@@ -183,6 +183,10 @@ Dopamine mediates *wanting*, not *liking*—separate neural systems. ~90% of nuc
 - **Lawyer study** [Sheldon & Krieger, 6,200 lawyers]: Income, class rank, partnership = minimal/zero correlation with wellbeing. Public service > elite firm despite lower pay.
 - **If values mesh:** Family values align → strength source. **If clash:** Career parents proud of → slowly kills inside.
 
+### Narrative Identity
+
+Identity = internalized, evolving life story [McAdams]. Redemption narratives (bad → good; suffering transforms) → higher wellbeing. Recently sober alcoholics whose last-drink stories had redemption: 83% still sober at follow-up vs 44% without [Dunlop & Tracy].
+
 ### Narrative Seeds (NS)
 
 **Formula:** "I am becoming someone who [direction, not destination]"
@@ -207,7 +211,7 @@ Dopamine mediates *wanting*, not *liking*—separate neural systems. ~90% of nuc
 
 **Extension domains:** Relationships, work, community, learning + any meaningful domain.
 
-Seeds are the book's central mechanism. They feed into MD Section 3 and optionally into KT narrative (Section 6).
+Seeds are the book's central mechanism. They feed into MD Section 3.
 
 → MD Section 3
 
@@ -276,8 +280,7 @@ Pillar costs: good food ≠ expensive food, walking = free, sleep = safe quiet p
 | 3 | Where I Am Going | Ch 3, 5, 6 | Core desires, inherited scripts (kept/discarded), goals that survived EG, pillar seeds, life domain seeds |
 | 4 | My Relationship with Gain and Loss | Ch 4 | PAA results, patterns in relationship with achievement |
 | 5 | What I Need From AI | — | Communication preferences, what to flag, what NOT to do, decision-making principles |
-| 6 | My Story (optional) | Ch 8 | KT narrative if constructed |
-| 7 | Revision Log | — | Dated changes and reasons; the changes themselves tell a story of evolution |
+| 6 | Revision Log | — | Dated changes and reasons; the changes themselves tell a story of evolution |
 
 ### Construction Tips
 
@@ -305,76 +308,7 @@ Before sharing with any AI, answer: (1) Does this provider store conversations? 
 
 ---
 
-## 7. Story Construction — Optional (Ch 8)
-
-**Prerequisite:** MD done or done enough. FP reasonably stable. If unstable → stabilize first.
-
-### Narrative Identity Research
-
-Identity IS your internalized evolving life story [McAdams]. Stories change BEFORE wellbeing changes—narrate new version → 1-2 weeks later wellbeing follows [Adler, 47 adults, ~600 narratives]. Alcoholic last-drink stories with redemption: 83% sober vs 44% without.
-
-| Redemption | Contamination |
-|------------|---------------|
-| Bad → good; suffering transforms | Good → bad; positive experiences spoiled |
-| → Higher generativity, wellbeing | |
-
-**Cultural caveat:** Western = redemption arcs. Japanese = acceptance, unresolved endings. Danish = growing together. Shape depends on culture/self.
-
-### Kishōtenketsu Structure
-
-**Origin:** Chinese 4-line poetry → Japan, Korea. No conflict as organizing principle.
-
-| Part | Function |
-|------|----------|
-| **Ki** | Introduction — establishes context and tone |
-| **Shō** | Development — deepens understanding, events unfold |
-| **Ten** | Twist — perspective shift recontextualizing everything. Heart of structure. |
-| **Ketsu** | Reconciliation — harmonizing elements. Open endings valid. |
-
-### Building Order: Backwards
-
-Reading order: Ki→Shō→Ten→Ketsu. Building order: reversed. Can't write past until you know what it leads to.
-
-1. **Dump:** Write story as currently remembered, unedited. Expect darker/more scattered than anticipated.
-2. **Seeds** (already planted): Bring forward NS from Ch 5. No new work needed.
-3. **Ten:** Recent events/crises + implementing FP + the authoring itself (taking the pen).
-4. **Ketsu:** Where seeds point (direction, not destination). Open-ended. Who becoming, not what achieving.
-5. **Ki/Shō:** Return to dump with new lens. Hunt unique outcomes (below). Connect across time → alternative narrative emerges.
-
-### Unique Outcomes
-
-Actual events that contradict the dominant problem story. Times the pattern didn't hold.
-
-1. Identify dominant story ("I always sabotage good things")
-2. Hunt exceptions ("When was the last time that story wasn't true?")
-3. Connect across time: remote → recent → present. Single exception → pattern.
-4. Name the pattern. Now have two stories; choose which to feed.
-
-**Insight:** Constructing new narratives changes how you remember the past. Not denial—reconstruction.
-
-**Synthesis:** By hand, or AI-assisted (dump + seeds + Ten + Ketsu → synthesize). Edit until it feels like YOUR story.
-
-**Living it:** Lens, not script. Decision test: "Does this align?" Revisit periodically.
-
-### Failure Modes
-
-| Reflection | Rumination |
-|------------|------------|
-| Genuine curiosity | Cycles same thoughts |
-| Forward momentum | No resolution, hot/churning |
-| Fresh engagement | Focused on uncontrollables |
-
-**Remedy:** Stop narrative work → return to pillars.
-
-**Premature positivity:** Forcing redemption before processing difficulty → shame spiral. Validate emotions first. Only look for alternative story after acute charge settles.
-
-**Difficult material:** Dump may surface old things. Signals: dissociating, 2+ weeks feeling worse, reaching for substances. Action: stop and get support.
-
-→ MD Section 6 (optional)
-
----
-
-## 8. Safety Flags
+## 7. Safety Flags
 
 ### Defer deeper work if:
 - FP severely compromised (no sleep, no movement, no connection, substance dependence)
@@ -384,5 +318,4 @@ Actual events that contradict the dominant problem story. Times the pattern didn
 ### Watch for:
 - **Rumination disguised as reflection:** cycling same thoughts, no insight, hot/churning
 - **Premature positivity:** forcing redemption before processing pain → shame spiral
-- **Difficult material surfacing:** dump exercise may uncover trauma
 - **Token flooding:** sharing full MD when only sections relevant degrades AI output quality

@@ -184,7 +184,7 @@ Rather than a goal to achieve, we'd create a direction:
 
 **Purpose:** Help user plant narrative seeds as standalone foundational work
 **Use when:** After EG filter (goal died or user chose seeds), or when user wants direction without goals
-**Context:** Ch 5 — this is foundational, not a step in narrative construction
+**Context:** Ch 5
 
 ```
 Let's plant some seeds. These aren't goals—there's no finish line, no pass or fail.
@@ -290,164 +290,7 @@ Let's check in on how [minimal_intervention] went.
 
 ---
 
-### Narrative Construction Guide (Optional — Ch 8)
-
-**Purpose:** Walk user through building their Kishōtenketsu story
-**Use when:** User has completed their me.md (or enough of it) and wants to add depth with a full narrative
-**Note:** The me.md is complete without this. This is optional advanced work.
-
-**Prerequisite:** Confirm pillar stability. me.md done or done enough. User wants the depth of story.
-
-#### Phase 1: Dump
-```
-Your me.md is done. If you want to go deeper—to weave your seeds, your past,
-and your direction into a single coherent narrative—let's build your story.
-
-Start with your story as you currently tell it to yourself.
-
-Write about your life—key events, patterns, how you got here.
-Don't edit or optimize. I want the raw version, the story you've been carrying.
-
-Take your time. This might bring up stuff you haven't looked at in a while.
-```
-
-**Warnings:**
-- If this feels overwhelming, we can pause
-- Watch for dissociation or severe distress
-
-*Capture: raw_dump*
-
-#### Phase 2: Seeds (already planted)
-```
-Your seeds are already planted from your earlier work. Let's bring them forward.
-
-These are the "I am becoming someone who..." statements you created.
-Which seeds do you want to carry into your story?
-
-[Reference their existing seeds from me.md Section 3]
-
-Any you'd like to add or revise before we weave them in?
-```
-*Capture: narrative_seeds*
-
-#### Phase 3: Ten
-```
-Now the shift.
-
-What's been happening recently that brought you here?
-Crises, realizations, things falling apart or coming together?
-
-What are you doing to stabilize—working on sleep, movement, eating, creating?
-
-And this moment—doing this work, taking the pen to write your own story—
-that's part of the shift too.
-
-Write about your Ten: the twist that's happening now.
-```
-*Capture: ten_narrative*
-
-#### Phase 4: Ketsu
-```
-Where do your seeds point?
-
-Not what you'll achieve. Who you're becoming.
-
-Imagine living aligned with those "I am becoming" statements.
-What does that look like? What does a day feel like?
-How do you relate to setbacks?
-
-Write the next chapter. Keep it open-ended—the story continues beyond this.
-```
-*Capture: ketsu_vision*
-
-#### Phase 5: Reconstruct
-```
-Now go back to your original dump with fresh eyes.
-
-Look for moments that contradict the dominant story:
-- Times you weren't anxious
-- Moments you did follow through
-- Days the pattern broke
-- Small wins you dismissed
-
-These are your "unique outcomes." Connect them across time.
-What would you call this alternative pattern?
-```
-*Capture: unique_outcomes*
-
-#### Synthesis
-```
-Let's weave this together.
-
-Your story reads: Ki (past context) → Shō (life unfolding) → Ten (the shift) → Ketsu (where you're heading).
-
-Using your dump, unique outcomes, seeds, Ten, and Ketsu—
-can you write a version of your story that feels true and points forward?
-
-[Or: Would you like me to help draft something from these pieces for you to edit?]
-```
-
-**AI draft option:**
-```
-Based on what you've shared, here's a possible narrative:
-
-[Synthesize Ki from dump + unique outcomes]
-[Synthesize Shō from dump + unique outcomes + early seeds of change]
-[Ten from their ten_narrative]
-[Ketsu from their ketsu_vision, keeping it open-ended]
-
-Does this feel like YOUR story? What would you change?
-```
-
-→ me.md Section 6 (optional)
-
----
-
 ## Construction Prompts
-
-### Narrative Synthesis
-
-**Purpose:** AI-assisted weaving of narrative from components
-
-**Inputs:**
-- raw_dump
-- narrative_seeds
-- ten_narrative
-- ketsu_vision
-- unique_outcomes (optional, enhances Ki/Shō)
-
-```
-Based on the materials you've provided, here's a draft of your story
-following the Kishōtenketsu structure:
-
----
-
-**Ki (Introduction)**
-[Synthesize context from dump—not everything, just what matters given the direction.
-Include early seeds of who they were becoming even then. Weave in unique outcomes
-that contradict the problem-saturated version.]
-
-**Shō (Development)**
-[Life unfolding. The texture of experience. How the pattern developed—both the
-difficulties and the overlooked exceptions. Building toward the shift without
-framing it as crisis or confrontation.]
-
-**Ten (The Twist)**
-[The perspective shift. Not a crisis resolved, but a recontextualization.
-What they're doing now—stabilizing, authoring, taking the pen.
-The steep spike of insight.]
-
-**Ketsu (Reconciliation)**
-[Where the seeds point. Open-ended. Not "I will achieve X" but "I am becoming
-someone who..." Life continuing beyond this moment. Direction without destination.]
-
----
-
-This is a draft. The goal is for it to feel like YOUR story.
-What resonates? What needs changing?
-```
-
----
 
 ### Seed Generation from Failed Goals
 
@@ -530,7 +373,7 @@ we're seeing if the directions still fit. If a seed needs replacing, that's grow
 Any changes should go into your me.md revision log.
 ```
 
-→ me.md Section 3, Section 7
+→ me.md Section 3, Section 6
 
 ---
 
@@ -604,15 +447,14 @@ The guide helps you:
 3. Plant seeds—directions, not destinations: "I am becoming someone who..."
 4. Build a stable foundation (sleep, movement, eating, connection, creating)
 5. Compile a me.md—a document that captures who you are, so any AI can truly help you
-6. Optionally, construct a story about who you're becoming using Kishōtenketsu structure
 
 The me.md is the main deliverable. It's a document you can paste into any AI conversation
 to get responses grounded in YOUR patterns, YOUR seeds, YOUR foundation.
 
-Seeds are the mechanism. The story is optional depth.
+Seeds are the mechanism.
 
 It's based on research about how identity actually works:
-we ARE our stories, and changing the story changes the psychology.
+the stories people tell about themselves are tied to their wellbeing and can predict later behaviour.
 
 Would you like to try any part of this?
 ```
@@ -663,14 +505,13 @@ Now let's put it all in one place: your me.md.
 
 This is a document that captures who you are. You can paste it into any AI conversation and get responses that actually know you. Instead of generic advice, you get advice grounded in YOUR patterns, YOUR seeds, YOUR foundation.
 
-It has seven sections:
+It has six sections:
 1. Where I Came From — your background and patterns
 2. My Foundation — your five pillars right now
 3. Where I Am Going — your desires, scripts, seeds, and direction
 4. My Relationship with Gain and Loss — what winning and losing taught you
 5. What I Need From AI — how you want AI to work with you
-6. My Story (optional) — your full narrative if you build one later
-7. Revision Log — tracking how the document (and you) evolve
+6. Revision Log — tracking how the document (and you) evolve
 
 Let's start with whichever section feels most natural. For most people, that's Section 3—your seeds and direction. Which would you like to start with?
 ```
@@ -760,20 +601,9 @@ Be specific. "Don't be overly positive" is okay. "When I'm catastrophizing, call
 Also worth including: any decision-making principles you rely on. These give AI context for how you think.
 ```
 
-#### Section 6: My Story (Optional)
+#### Section 6: Revision Log
 ```
-Section 6 is for your Kishōtenketsu narrative, if you choose to build one.
-
-This is optional. Your me.md is complete without it.
-If you're interested, we can work through Chapter 8's story construction process.
-
-The story adds the feeling behind the facts—the arc that connects the dots.
-But the document stands on its own with Sections 1 through 5 plus the revision log.
-```
-
-#### Section 7: Revision Log
-```
-Let's set up Section 7: Your Revision Log.
+Let's set up Section 6: Your Revision Log.
 
 This is simple but important. Every time you update the document, note:
 - The date

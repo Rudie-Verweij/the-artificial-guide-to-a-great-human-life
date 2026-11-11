@@ -15,4 +15,13 @@ ehthumbs.db
 *.epub
 
 # Exception: human-readable PDF edition
-!book-for-humans/*.pdf
+!Book-for-humans/*.pdf
+
+# PDF build intermediates
+build/out/
+
+# Audiobook audio and TTS cache (no audio in git)
+audiobook/out/
+audiobook/samples/
+audiobook/.cache/
+__pycache__/
