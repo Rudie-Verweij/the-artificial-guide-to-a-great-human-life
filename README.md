@@ -72,6 +72,8 @@ Prefer paper over pixels? Two editions available:
 
 Print recommendation: A5 hardcover, 160gsm uncoated paper (writable with pen), double-sided.
 
+Prefer listening? The [**Audiobook**](https://github.com/Rudie-Verweij/the-artificial-guide-to-a-great-human-life/releases/latest) is about 77 minutes, adapted for the ear. Download the M4B for audiobook apps (chapters and cover) or the MP3 for any player.
+
 ## Core Concepts
 
 - **Directional Narratives** — Replace fixed goals with ongoing stories that have direction but no finish line
